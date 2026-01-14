@@ -12,11 +12,11 @@ export default function App() {
         {/* Hero section */}
         <div className="text-center mb-12">
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Learn to Drive <span className="text-orange-500">Stick Shift</span>
+            Learn more about driving <span className="text-orange-500">Stick Shift</span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            Master manual transmission with our interactive RPM simulator and comprehensive driving guides.
-            Perfect for beginners and those looking to refine their skills.
+            Learn more about manual transmissions with our interactive RPM simulator and quick reference driving guides.
+            Perfect for beginners!
           </p>
         </div>
 
@@ -56,7 +56,7 @@ export default function App() {
         <footer className="mt-16 py-8 border-t border-gray-200 dark:border-gray-700">
           <div className="text-center text-gray-500 dark:text-gray-400">
             <p className="mb-2">
-              Built with React, Tailwind CSS, and D3.js
+              Built with React, Tailwind CSS, D3.js, and Three.js
             </p>
             <p className="text-sm">
               Made with passion for manual transmission enthusiasts

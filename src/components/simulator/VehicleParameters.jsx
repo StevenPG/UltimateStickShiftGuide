@@ -32,15 +32,15 @@ export default function VehicleParameters({
         <input
           type="range"
           min="0"
-          max="120"
+          max="150"
           value={speed}
           onChange={(e) => onSpeedChange(parseInt(e.target.value))}
           className="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-orange-500"
         />
         <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 mt-1">
           <span>0</span>
-          <span>60</span>
-          <span>120</span>
+          <span>75</span>
+          <span>150</span>
         </div>
       </div>
 

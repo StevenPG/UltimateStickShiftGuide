@@ -22,12 +22,9 @@ export default function GearSelector({ gearCount, selectedGear, onGearChange }) 
   // Generate gear buttons based on gear count
   const gears = Array.from({ length: gearCount }, (_, i) => i + 1)
 
-  // Determine grid layout based on gear count
-  const gridCols = gearCount <= 5 ? 'grid-cols-5' : 'grid-cols-5'
-
   return (
     <div className="space-y-2">
-      <div className={`grid ${gridCols} gap-2`}>
+      <div className="flex justify-center">
         {gears.map(gear => (
           <button
             key={gear}

@@ -28,7 +28,7 @@ export default function Header() {
               />
             </svg>
             <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-              Ultimate Stick Shift Guide
+              Stick Shift Guide
             </h1>
           </div>
 

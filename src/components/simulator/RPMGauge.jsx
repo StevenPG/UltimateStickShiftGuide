@@ -176,9 +176,9 @@ export default function RPMGauge({ rpm, zone }) {
         style={{ overflow: 'visible' }}
       />
 
-      {/* Digital display - positioned inside the gauge */}
-      <div className="absolute" style={{ top: '55%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-        <div className="bg-gray-900 dark:bg-black rounded-lg px-4 py-2 border-2 border-gray-700 text-center">
+      {/* Digital display - positioned in the empty space below the needle */}
+      <div className="absolute" style={{ top: '72%', left: '50%', transform: 'translate(-50%, -50%)' }}>
+        <div className="bg-gray-900 dark:bg-black rounded-lg px-3 py-1.5 border-2 border-gray-700 text-center">
           <div className={`font-mono text-3xl font-bold ${zoneColors[zone]}`}>
             {Math.round(clampedRPM).toLocaleString()}
           </div>
@@ -187,7 +187,7 @@ export default function RPMGauge({ rpm, zone }) {
       </div>
 
       {/* Zone legend */}
-      <div className="flex gap-4 mt-6 text-sm">
+      <div className="flex gap-4 mt-14 text-sm">
         <div className="flex items-center gap-1">
           <div className="w-3 h-3 rounded" style={{ backgroundColor: '#86efac' }} />
           <span className="text-gray-600 dark:text-gray-400">0-4k</span>
