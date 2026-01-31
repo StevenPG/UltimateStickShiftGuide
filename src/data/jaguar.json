@@ -1,0 +1,6453 @@
+{
+  "make": "Jaguar",
+  "vehicle_count": 50,
+  "vehicles": [
+    {
+      "model": "E-Pace",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "SE P250 AWD",
+          "trim_id": 427689,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "4.54",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "E-Pace",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic SE P250 AWD",
+          "trim_id": 442965,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "4.54",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "P250 AWD",
+          "trim_id": 418891,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P250 AWD S",
+          "trim_id": 418892,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P340 AWD S",
+          "trim_id": 418893,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P400 AWD R-Dynamic S",
+          "trim_id": 418894,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SVR AWD",
+          "trim_id": 419333,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.23",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR21",
+              "wheel_size": "21 X 9",
+              "diameter_inches": 30.39
+            },
+            "rear": {
+              "size": "P295/40WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 30.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "P250 AWD",
+          "trim_id": 425946,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P250 AWD S",
+          "trim_id": 425947,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P340 AWD S",
+          "trim_id": 425948,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "P400 AWD R-Dynamic S",
+          "trim_id": 425949,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SVR AWD",
+          "trim_id": 425950,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.23",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR21",
+              "wheel_size": "21 X 9",
+              "diameter_inches": 30.39
+            },
+            "rear": {
+              "size": "P295/40WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 30.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "P250 AWD",
+          "trim_id": 429006,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "R-Dynamic S P400 AWD",
+          "trim_id": 429008,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "S P250 AWD",
+          "trim_id": 429007,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "SVR AWD",
+          "trim_id": 429009,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.23",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR21",
+              "wheel_size": "21 X 9",
+              "diameter_inches": 30.39
+            },
+            "rear": {
+              "size": "P295/40WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 30.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic S P250 AWD",
+          "trim_id": 440069,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "R-Dynamic S P400 AWD",
+          "trim_id": 440067,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "SVR AWD",
+          "trim_id": 440068,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.23",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR21",
+              "wheel_size": "21 X 9",
+              "diameter_inches": 30.39
+            },
+            "rear": {
+              "size": "P295/40WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 30.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic S P250 AWD",
+          "trim_id": 452210,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "R-Dynamic S P400 AWD",
+          "trim_id": 452211,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.73",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            }
+          }
+        },
+        {
+          "trim_name": "SVR 575 Edition AWD",
+          "trim_id": 452212,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.23",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR21",
+              "wheel_size": "21 X 9",
+              "diameter_inches": 30.39
+            },
+            "rear": {
+              "size": "P295/40WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 30.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv V6",
+          "trim_id": 358018,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "3.15",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P275/40YR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 26.66
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv V6 S",
+          "trim_id": 358019,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "3.31",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35YR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 26.58
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv V8 S",
+          "trim_id": 358020,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "2.56",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P295/30YR20",
+              "wheel_size": "20 X 10.5",
+              "diameter_inches": 26.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv V6",
+          "trim_id": 365498,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.15",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P275/40YR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 26.66
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv V6 S",
+          "trim_id": 365499,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.31",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35YR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 26.58
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv V8 S",
+          "trim_id": 365500,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "2.56",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P295/30YR20",
+              "wheel_size": "20 X 10.5",
+              "diameter_inches": 26.97
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe V6",
+          "trim_id": 365501,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.15",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P275/40YR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 26.66
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe V6 S",
+          "trim_id": 365502,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.31",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35YR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 26.58
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe V8 R",
+          "trim_id": 365503,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "2.56",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P295/30YR20",
+              "wheel_size": "20 X 10.5",
+              "diameter_inches": 26.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "First Edition AWD",
+          "trim_id": 399654,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        },
+        {
+          "trim_name": "HSE AWD",
+          "trim_id": 399653,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 399651,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 30.03
+            },
+            "rear": {
+              "size": "P235/65VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 30.03
+            }
+          }
+        },
+        {
+          "trim_name": "SE AWD",
+          "trim_id": 399652,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "HSE AWD",
+          "trim_id": 405714,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 405712,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 30.03
+            },
+            "rear": {
+              "size": "P235/65VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 30.03
+            }
+          }
+        },
+        {
+          "trim_name": "SE AWD",
+          "trim_id": 405713,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "HSE AWD",
+          "trim_id": 427852,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2024.5 R-Dynamic HSE AWD",
+          "trim_id": 454974,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        },
+        {
+          "trim_name": "R-Dynamic HSE AWD",
+          "trim_id": 441677,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            },
+            "rear": {
+              "size": "P245/50VR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.65
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 4367,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.0",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 4368,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.0",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 4345,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.0",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 4346,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.0",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55HR16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 7487,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.00",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V6 w/Sport & Prem Pkgs",
+          "trim_id": 7488,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.00",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50R16",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 7489,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.00",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 w/Sport",
+          "trim_id": 7490,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.25",
+              "2nd": "2.44",
+              "3rd": "1.55",
+              "4th": "1.00",
+              "5th": "0.75",
+              "reverse": "3.07",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50R16",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 101107,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 101109,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50R17",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 26.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 R Supercharged",
+          "trim_id": 101111,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            },
+            "spare": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 142212,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6-Speed",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 142213,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6-Speed",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 R Supercharged",
+          "trim_id": 142214,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6-Speed",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan V6",
+          "trim_id": 265257,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8",
+          "trim_id": 265258,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 R Supercharged",
+          "trim_id": 265259,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0",
+          "trim_id": 280072,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 4.2",
+          "trim_id": 280073,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan R",
+          "trim_id": 280074,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0",
+          "trim_id": 285891,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 4.2",
+          "trim_id": 285892,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan R",
+          "trim_id": 285893,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF6HP26",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P275/35ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 25.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S-TYPE",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0",
+          "trim_id": 289151,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40HR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "245/40HR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 4.2",
+          "trim_id": 289152,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40HR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "245/40HR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan R",
+          "trim_id": 289153,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35ZR19",
+              "wheel_size": "19 x 8",
+              "diameter_inches": 25.75
+            },
+            "rear": {
+              "size": "P275/30ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 25.5
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "X-TYPE",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.5L",
+          "trim_id": 262431,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "2.14",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.77",
+              "reverse": "3.46",
+              "final_drive": "2.53"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 3.0L",
+          "trim_id": 262432,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "2.53"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "X-TYPE",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.5L",
+          "trim_id": 267326,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "2.14",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.77",
+              "reverse": "-TBD-",
+              "final_drive": "3.80"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 3.0L",
+          "trim_id": 275816,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "2.14",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.77",
+              "reverse": "-TBD-",
+              "final_drive": "3.80"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.0L",
+          "trim_id": 268767,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "-TBD-",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "X-TYPE",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0L",
+          "trim_id": 280568,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.0L",
+          "trim_id": 280569,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "X-TYPE",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 285889,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 285890,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.37",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic S AWD",
+          "trim_id": 406767,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 406766,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "S RWD",
+          "trim_id": 406765,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "3.30",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Luxury",
+          "trim_id": 295883,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Premium Luxury",
+          "trim_id": 295884,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Supercharged",
+          "trim_id": 295885,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30YR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Luxury",
+          "trim_id": 309836,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Portfolio",
+          "trim_id": 309838,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30YR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Premium Luxury",
+          "trim_id": 309837,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Supercharged",
+          "trim_id": 316662,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30YR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XFR",
+          "trim_id": 309839,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30YR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 325167,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45R18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45R18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Portfolio",
+          "trim_id": 325169,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30ZR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Premium",
+          "trim_id": 325168,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Supercharged",
+          "trim_id": 325170,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30ZR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XFR",
+          "trim_id": 325171,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P285/30ZR20",
+              "wheel_size": "20 x 9.5",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic SE Sedan AWD",
+          "trim_id": 418910,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "S Sedan RWD",
+          "trim_id": 418908,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SE Sedan RWD",
+          "trim_id": 418909,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "R-Dynamic SE Sedan AWD",
+          "trim_id": 425945,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "S Sedan RWD",
+          "trim_id": 425943,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SE Sedan RWD",
+          "trim_id": 425944,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.29",
+              "final_drive": "3.42",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 4362,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan L",
+          "trim_id": 4363,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Supercharged",
+          "trim_id": 4365,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "P255/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas",
+          "trim_id": 4364,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas Supercharged",
+          "trim_id": 4366,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 4347,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan L",
+          "trim_id": 4348,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Supercharged",
+          "trim_id": 4350,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas",
+          "trim_id": 4349,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas Supercharged",
+          "trim_id": 4351,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan VDP",
+          "trim_id": 7493,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan VDP Supercharged",
+          "trim_id": 7495,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ Sport",
+          "trim_id": 7492,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 7491,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 7494,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan VDP",
+          "trim_id": 101114,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan VDP Supercharged",
+          "trim_id": 101116,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            },
+            "spare": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 26.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ Sport",
+          "trim_id": 101113,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 101112,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "P225/60ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.63
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 101115,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "rear": {
+              "size": "P255/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan VDP",
+          "trim_id": 110142,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 110141,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "rear": {
+              "size": "P235/55HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "spare": {
+              "size": "P235/55HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 110143,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Super V8",
+          "trim_id": 267355,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan VDP",
+          "trim_id": 267354,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 267352,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8 LWB",
+          "trim_id": 267353,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 267356,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Super V8",
+          "trim_id": 285403,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas",
+          "trim_id": 285401,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 285399,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8 L",
+          "trim_id": 285400,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "rear": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "P235/50HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.25
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 285402,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "ZF",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Super V8",
+          "trim_id": 291623,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Vanden Plas",
+          "trim_id": 291621,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8",
+          "trim_id": 291619,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJ8 L",
+          "trim_id": 291620,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "P255/40R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan XJR",
+          "trim_id": 291622,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/35ZR20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "2-Door Convertible",
+          "trim_id": 4359,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93/3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "rear": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "spare": {
+              "size": "P245/50R17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Convertible Supercharged",
+          "trim_id": 4361,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93/3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 4358,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93/3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "rear": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "spare": {
+              "size": "P245/50R17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Supercharged",
+          "trim_id": 4360,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Electronic",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93/3.16",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv XK8",
+          "trim_id": 7485,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "rear": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "spare": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 7486,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XK8",
+          "trim_id": 7483,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.57",
+              "2nd": "2.20",
+              "3rd": "1.51",
+              "4th": "1.00",
+              "5th": "0.80",
+              "reverse": "4.09",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "rear": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            },
+            "spare": {
+              "size": "P245/50ZR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 26.65
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 7484,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "1.93",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv XK8",
+          "trim_id": 102800,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 102801,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XK8",
+          "trim_id": 102798,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 102799,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description_extended": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv XK8",
+          "trim_id": 142210,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 142211,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XK8",
+          "trim_id": 142208,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 142209,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv XK8",
+          "trim_id": 266165,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 266166,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XK8",
+          "trim_id": 266163,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 266164,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv XK8",
+          "trim_id": 276394,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "ZF Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 276396,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "ZF Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XK8",
+          "trim_id": 276393,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "ZF Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 276395,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "ZF Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "2.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door Convertible",
+          "trim_id": 282378,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Convertible XKR",
+          "trim_id": 285888,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 282377,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P255/45ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 27.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 285887,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 291979,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Sequential shift",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P275/40ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 26.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 291981,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Sequential shift",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 291978,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Sequential shift",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45ZR18",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P275/40ZR18",
+              "wheel_size": "18 x 9.5",
+              "diameter_inches": 26.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 291980,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Sequential shift",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 309854,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 309855,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 309852,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 309853,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.30",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XK",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 325223,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv XKR",
+          "trim_id": 325224,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 325220,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR",
+          "trim_id": 325221,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "275/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe XKR175 75th Anniversary",
+          "trim_id": 325222,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.17",
+              "2nd": "2.34",
+              "3rd": "1.52",
+              "4th": "1.14",
+              "5th": "0.87",
+              "6th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/35ZR20",
+              "wheel_size": "20 x 9.0",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "285/30ZR20",
+              "wheel_size": "20 x 10.0",
+              "diameter_inches": 26.73
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

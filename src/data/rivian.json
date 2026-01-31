@@ -1,0 +1,87 @@
+{
+  "make": "Rivian",
+  "vehicle_count": 1,
+  "vehicles": [
+    {
+      "model": "R1T",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Adventure Package AWD",
+          "trim_id": 420794,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "12.60",
+              "rear_axle": "12.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT275/55HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 32.91
+            },
+            "rear": {
+              "size": "LT275/55HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 32.91
+            }
+          }
+        },
+        {
+          "trim_name": "Explore Package AWD",
+          "trim_id": 420793,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "12.60",
+              "rear_axle": "12.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT275/55HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 32.91
+            },
+            "rear": {
+              "size": "LT275/55HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 32.91
+            }
+          }
+        },
+        {
+          "trim_name": "Launch Edition AWD",
+          "trim_id": 420795,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "12.60",
+              "rear_axle": "12.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT275/65HR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 34.07
+            },
+            "rear": {
+              "size": "LT275/65HR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 34.07
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4724 @@
+{
+  "make": "Jeep",
+  "vehicle_count": 30,
+  "vehicles": [
+    {
+      "model": "Cherokee",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Altitude Lux 4x4",
+          "trim_id": 429988,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.81",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/65TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            },
+            "rear": {
+              "size": "P225/65TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            }
+          }
+        },
+        {
+          "trim_name": "Trailhawk 4x4",
+          "trim_id": 429989,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DFJ",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.81",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65TR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65TR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "year": 2026,
+      "trims": [
+        {
+          "trim_name": "4x4",
+          "trim_id": 479521,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGM",
+            "type": "1",
+            "description": "CVT",
+            "gear_ratios": {
+              "final_drive": "4.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            },
+            "rear": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            }
+          }
+        },
+        {
+          "trim_name": "Laredo 4x4",
+          "trim_id": 479522,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGM",
+            "type": "1",
+            "description": "CVT",
+            "gear_ratios": {
+              "final_drive": "4.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            },
+            "rear": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            }
+          }
+        },
+        {
+          "trim_name": "Limited 4x4",
+          "trim_id": 479523,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGM",
+            "type": "1",
+            "description": "CVT",
+            "gear_ratios": {
+              "final_drive": "4.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            },
+            "rear": {
+              "size": "P225/60TR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 28.63
+            }
+          }
+        },
+        {
+          "trim_name": "Overland 4x4",
+          "trim_id": 479524,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGM",
+            "type": "1",
+            "description": "CVT",
+            "gear_ratios": {
+              "final_drive": "4.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50TR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.25
+            },
+            "rear": {
+              "size": "P235/50TR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Commander",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door 2WD",
+          "trim_id": 279021,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DGJ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 4WD",
+          "trim_id": 279023,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DGJ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 2WD",
+          "trim_id": 279022,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DGQ",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "3.00",
+              "5th": "0.67",
+              "3rd": "1.00",
+              "2nd": "1.67 & 1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 279024,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DGQ",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "3.00",
+              "5th": "0.67",
+              "3rd": "1.00",
+              "2nd": "1.67 & 1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Commander",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 302409,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Overland",
+          "trim_id": 302410,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            },
+            "rear": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            },
+            "spare": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 302408,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Limited",
+          "trim_id": 302406,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Overland",
+          "trim_id": 302407,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            },
+            "rear": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            },
+            "spare": {
+              "size": "245/60R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 29.57
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Sport",
+          "trim_id": 302405,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Commander",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 317105,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 317104,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Limited",
+          "trim_id": 317103,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGQ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.00",
+              "2nd": "1.67 & 1.50",
+              "3rd": "1.00",
+              "4th": "0.75",
+              "5th": "0.67",
+              "reverse": "3.00",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Sport",
+          "trim_id": 317102,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door Limited",
+          "trim_id": 284796,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Sport",
+          "trim_id": 284795,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 284798,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 284797,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 291234,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 291233,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Limited",
+          "trim_id": 291232,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sport",
+          "trim_id": 291231,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 304213,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.72",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 304212,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.72",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Limited",
+          "trim_id": 304211,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.72",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sport",
+          "trim_id": 304210,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.72",
+              "reverse": "3.42",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Latitude",
+          "trim_id": 353109,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DAV",
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.350 - 0.390",
+              "reverse": "1.760",
+              "final_drive": "5.800"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 353110,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DAV",
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.350 - 0.390",
+              "reverse": "1.760",
+              "final_drive": "5.800"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 353108,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.770",
+              "2nd": "2.160",
+              "3rd": "1.410",
+              "4th": "1.030",
+              "5th": "0.720",
+              "reverse": "3.420",
+              "final_drive": "4.120"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Latitude",
+          "trim_id": 353106,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAV",
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.350 - 0.390",
+              "reverse": "1.760",
+              "final_drive": "6.120"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Limited",
+          "trim_id": 353107,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAV",
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.350 - 0.390",
+              "reverse": "1.760",
+              "final_drive": "5.800"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sport",
+          "trim_id": 353105,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.770",
+              "2nd": "2.160",
+              "3rd": "1.410",
+              "4th": "1.030",
+              "5th": "0.720",
+              "reverse": "3.420",
+              "final_drive": "4.120"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Latitude 4x4",
+          "trim_id": 443505,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            }
+          }
+        },
+        {
+          "trim_name": "Latitude Lux 4x4",
+          "trim_id": 443507,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "Limited 4x4",
+          "trim_id": 443508,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "Sport 4x4",
+          "trim_id": 443504,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            }
+          }
+        },
+        {
+          "trim_name": "Trailhawk 4x4",
+          "trim_id": 443511,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "4.40",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65SR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 28.0
+            },
+            "rear": {
+              "size": "P215/65SR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 28.0
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Latitude 4x4",
+          "trim_id": 459720,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            }
+          }
+        },
+        {
+          "trim_name": "Latitude Lux 4x4",
+          "trim_id": 459721,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "Limited 4x4",
+          "trim_id": 459722,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "Sport 4x4",
+          "trim_id": 459719,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "3.73",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60TR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            }
+          }
+        },
+        {
+          "trim_name": "Trailhawk 4x4",
+          "trim_id": 459723,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGD",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.72",
+              "2nd": "2.91",
+              "3rd": "1.86",
+              "4th": "1.42",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.24",
+              "final_drive": "4.40",
+              "7th": "0.79",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65SR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 28.0
+            },
+            "rear": {
+              "size": "P215/65SR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 28.0
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door Laredo",
+          "trim_id": 11479,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Laredo 4WD",
+          "trim_id": 11480,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 11481,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.5
+            },
+            "rear": {
+              "size": "P245/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.5
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 11482,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.5
+            },
+            "rear": {
+              "size": "P245/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.5
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "4-Door Laredo",
+          "trim_id": 12631,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Laredo 4WD",
+          "trim_id": 12632,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 12633,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 12634,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "DGB",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "3.55",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Laredo",
+          "trim_id": 101054,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "4",
+            "order_code": "DGK",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Laredo 4WD",
+          "trim_id": 101056,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "4",
+            "order_code": "DGK",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 29.29
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 101055,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "4",
+            "order_code": "DGK",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 101057,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "4",
+            "order_code": "DGK",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Overland 4WD",
+          "trim_id": 101058,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "DGQ",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "3.00",
+              "5th": "0.67",
+              "3rd": "1.00",
+              "2nd": "1.67",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Laredo",
+          "trim_id": 266635,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "DGJ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Laredo 4WD",
+          "trim_id": 266637,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "DGJ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 266636,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "DGQ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 266638,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "DGQ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.16",
+              "5th": "0.83",
+              "3rd": "1.41",
+              "2nd": "2.19",
+              "1st": "3.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Laredo",
+          "trim_id": 317538,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 317539,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SRT-8",
+          "trim_id": 317540,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.14",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45ZR20",
+              "wheel_size": "20 x 9.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P285/40ZR20",
+              "wheel_size": "20 x 10.0",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Laredo",
+          "trim_id": 317536,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Limited",
+          "trim_id": 317537,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGJ",
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.59",
+              "2nd": "2.19",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "3.16",
+              "final_drive": "3.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 694,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG4",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "2.80",
+              "reverse": "3.00",
+              "3rd": "1.00",
+              "2nd": "1.67/1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "Compact",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 697,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG4",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "2.80",
+              "reverse": "3.00",
+              "3rd": "1.00",
+              "2nd": "1.67/1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "Compact",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade",
+          "trim_id": 693,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "2.91",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "Compact",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade 4WD",
+          "trim_id": 696,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "2.91",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "Compact",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport",
+          "trim_id": 692,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.40",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport 4WD",
+          "trim_id": 695,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.40",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 101310,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG6",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "3.00",
+              "3rd": "1.00",
+              "2nd": "1.67/1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 101313,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG6",
+            "gear_ratios": {
+              "4th": "0.75",
+              "final_drive": "3.73",
+              "reverse": "3.00",
+              "3rd": "1.00",
+              "2nd": "1.67/1.50",
+              "1st": "3.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade",
+          "trim_id": 101309,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade 4WD",
+          "trim_id": 101312,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport",
+          "trim_id": 101308,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.10",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "P215/75R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.7
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport 4WD",
+          "trim_id": 101311,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.10",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "P215/75R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 28.7
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 127899,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG6",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited 4WD",
+          "trim_id": 127902,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG6",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "3.73",
+              "reverse": "2.20",
+              "3rd": "1.00",
+              "2nd": "1.54",
+              "1st": "2.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade",
+          "trim_id": 127898,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "HD Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Renegade 4WD",
+          "trim_id": 127901,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "HD Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport",
+          "trim_id": 127897,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description": "HD Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.10",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sport 4WD",
+          "trim_id": 127900,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "HD Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.10",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "rear": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            },
+            "spare": {
+              "size": "P215/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.7
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door Limited",
+          "trim_id": 284880,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Full size",
+              "wheel_size": "17 x 7.5"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Sport",
+          "trim_id": 284879,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "order_code": "DEH",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.61",
+              "3rd": "1.72",
+              "4th": "1.25",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "4.06",
+              "final_drive": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Full size",
+              "wheel_size": "16 x 7.0"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 284882,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Full size",
+              "wheel_size": "17 x 7.5"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 284881,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DEH",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.61",
+              "3rd": "1.72",
+              "4th": "1.25",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "4.06",
+              "final_drive": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Full size",
+              "wheel_size": "16 x 7.0"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 291030,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 291029,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DEH",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.61",
+              "3rd": "1.72",
+              "4th": "1.25",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "4.06",
+              "final_drive": "3.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Limited",
+          "trim_id": 291028,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Sport",
+          "trim_id": 291027,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "order_code": "DEH",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.61",
+              "3rd": "1.72",
+              "4th": "1.25",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "4.06",
+              "final_drive": "3.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Liberty",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 317278,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Renegade",
+          "trim_id": 323790,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 317277,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Limited",
+          "trim_id": 317276,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "RWD 4-Door Sport",
+          "trim_id": 317275,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "DGV",
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "rear": {
+              "size": "P225/75R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Patriot",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door Limited",
+          "trim_id": 288296,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Sport",
+          "trim_id": 288295,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 288298,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 288297,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Patriot",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4WD 4-Door Limited",
+          "trim_id": 291230,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door Sport",
+          "trim_id": 291229,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Limited",
+          "trim_id": 291228,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60R17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 27.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sport",
+          "trim_id": 291227,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DD7",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.77",
+              "2nd": "2.16",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.81",
+              "reverse": "3.42",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P205/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.3
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wagoneer S",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Launch Edition AWD",
+          "trim_id": 457514,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "order_code": "DCC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "11.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50TR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.25
+            },
+            "rear": {
+              "size": "P235/50TR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "2-Door SE",
+          "trim_id": 5335,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDQ",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.10",
+              "reverse": "4.74",
+              "5th": "0.85",
+              "3rd": "1.45",
+              "2nd": "2.33",
+              "1st": "3.93"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "rear": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "spare": {
+              "size": "P225/75D15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 28.29
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sahara",
+          "trim_id": 5337,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "HD 5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.57",
+              "5th": "0.78",
+              "3rd": "1.38",
+              "2nd": "2.33",
+              "1st": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.4
+            },
+            "rear": {
+              "size": "P225/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.4
+            },
+            "spare": {
+              "size": "P225/75D15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 28.29
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sport",
+          "trim_id": 5336,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "HD 5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.57",
+              "5th": "0.78",
+              "3rd": "1.38",
+              "2nd": "2.33",
+              "1st": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "size": "P225/75D15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 28.29
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "2-Door SE",
+          "trim_id": 12616,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DGD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "4.74",
+              "5th": "0.85",
+              "3rd": "1.45",
+              "2nd": "2.33",
+              "1st": "3.93"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "rear": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sahara",
+          "trim_id": 12618,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "4.22",
+              "5th": "0.78",
+              "3rd": "1.38",
+              "2nd": "2.33",
+              "1st": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.4
+            },
+            "rear": {
+              "size": "P225/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.4
+            },
+            "spare": {
+              "size": "P225/70R16",
+              "wheel_size": "Compact",
+              "diameter_inches": 28.4
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sport",
+          "trim_id": 12617,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "4.22",
+              "5th": "0.78",
+              "3rd": "1.38",
+              "2nd": "2.33",
+              "1st": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "2-Door SE",
+          "trim_id": 4333,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DGD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "4.74",
+              "5th": "0.85",
+              "3rd": "1.45",
+              "2nd": "2.33",
+              "1st": "3.93"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "rear": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sahara",
+          "trim_id": 4336,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "rear": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "spare": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sport",
+          "trim_id": 4335,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "wheel_size": "15 x 7"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door X",
+          "trim_id": 4334,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "2-Door Rubicon",
+          "trim_id": 101307,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            },
+            "rear": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            },
+            "spare": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door SE",
+          "trim_id": 101303,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "rear": {
+              "size": "P205/75R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 27.11
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sahara",
+          "trim_id": 101306,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.73",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "rear": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "spare": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sport",
+          "trim_id": 101305,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "wheel_size": "15 x 7"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door X",
+          "trim_id": 101304,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "2-Door Rubicon",
+          "trim_id": 127895,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            },
+            "rear": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            },
+            "spare": {
+              "size": "LT245/75R16",
+              "wheel_size": "16 x 8",
+              "diameter_inches": 30.47
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door SE",
+          "trim_id": 127891,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "order_code": "DDK",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "4.11",
+              "reverse": "3.52",
+              "5th": "0.80",
+              "3rd": "1.48",
+              "2nd": "2.25",
+              "1st": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "size": "P215/75R15",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 27.7
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sahara",
+          "trim_id": 127894,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "rear": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "spare": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Sport",
+          "trim_id": 127893,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Unlimited LWB",
+          "trim_id": 264252,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "order_code": "DG6",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "3.73",
+              "reverse": "2.22",
+              "3rd": "1.00",
+              "2nd": "1.57",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "rear": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            },
+            "spare": {
+              "size": "30 x 9.5R15",
+              "wheel_size": "15 x 8"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door X",
+          "trim_id": 127892,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "order_code": "DDD",
+            "gear_ratios": {
+              "4th": "1.00",
+              "final_drive": "3.07",
+              "reverse": "3.55",
+              "5th": "0.78",
+              "3rd": "1.40",
+              "2nd": "2.32",
+              "1st": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "rear": {
+              "size": "P215/75R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.7
+            },
+            "spare": {
+              "size": "P215/75R15",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 27.7
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

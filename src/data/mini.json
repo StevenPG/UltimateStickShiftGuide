@@ -1,0 +1,1340 @@
+{
+  "make": "MINI",
+  "vehicle_count": 10,
+  "vehicles": [
+    {
+      "model": "Countryman",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door S ALL4",
+          "trim_id": 330270,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 330268,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.91",
+              "5th": "0.78",
+              "6th": "0.68",
+              "reverse": "3.14",
+              "final_drive": "4.72"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 330269,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door S ALL4",
+          "trim_id": 337378,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 337376,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.91",
+              "5th": "0.78",
+              "6th": "0.68",
+              "reverse": "3.14",
+              "final_drive": "4.72"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 337377,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door John Cooper Works ALL4",
+          "trim_id": 356330,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.308",
+              "2nd": "2.130",
+              "3rd": "1.483",
+              "4th": "1.139",
+              "5th": "0.949",
+              "6th": "0.816",
+              "reverse": "3.231",
+              "final_drive": "3.706"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "225/45R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S ALL4",
+          "trim_id": 356328,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.308",
+              "2nd": "2.130",
+              "3rd": "1.483",
+              "4th": "1.139",
+              "5th": "0.949",
+              "6th": "0.816",
+              "reverse": "3.231",
+              "final_drive": "3.706"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 356326,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.214",
+              "2nd": "1.792",
+              "3rd": "1.194",
+              "4th": "0.914",
+              "5th": "0.784",
+              "6th": "0.683",
+              "reverse": "3.143",
+              "final_drive": "4.722"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 356327,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.308",
+              "2nd": "2.130",
+              "3rd": "1.483",
+              "4th": "1.139",
+              "5th": "0.949",
+              "6th": "0.816",
+              "reverse": "3.231",
+              "final_drive": "3.706"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "205/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "ALL4 4-Door John Cooper Works",
+          "trim_id": 363297,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "ALL4 4-Door S",
+          "trim_id": 363296,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 363284,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.91",
+              "5th": "0.78",
+              "6th": "0.68",
+              "reverse": "3.14",
+              "final_drive": "4.72"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 363292,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "ALL4 4-Door John Cooper Works",
+          "trim_id": 372664,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "ALL4 4-Door S",
+          "trim_id": 372665,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 372663,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.91",
+              "5th": "0.78",
+              "6th": "0.68",
+              "reverse": "3.14",
+              "final_drive": "4.72"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 372666,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "ALL4 4-Door John Cooper Works",
+          "trim_id": 378914,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "ALL4 4-Door S",
+          "trim_id": 378915,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door",
+          "trim_id": 378913,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.91",
+              "5th": "0.78",
+              "6th": "0.68",
+              "reverse": "3.14",
+              "final_drive": "4.72"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door S",
+          "trim_id": 378916,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "2.13",
+              "3rd": "1.48",
+              "4th": "1.14",
+              "5th": "0.95",
+              "6th": "0.82",
+              "reverse": "3.23",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P205/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 25.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Cooper ALL4",
+          "trim_id": 390341,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.04",
+              "3rd": "1.37",
+              "4th": "1.03",
+              "5th": "0.95",
+              "6th": "0.79",
+              "reverse": "4.14",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper FWD",
+          "trim_id": 390338,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.24",
+              "4th": "0.97",
+              "5th": "0.81",
+              "6th": "0.68",
+              "reverse": "3.54",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S ALL4",
+          "trim_id": 390340,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.04",
+              "3rd": "1.37",
+              "4th": "1.03",
+              "5th": "0.95",
+              "6th": "0.79",
+              "reverse": "4.14",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S FWD",
+          "trim_id": 390339,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "205",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Cooper ALL4",
+          "trim_id": 399419,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "ZMT",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.04",
+              "3rd": "1.37",
+              "4th": "1.03",
+              "5th": "0.95",
+              "6th": "0.79",
+              "reverse": "4.14",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper FWD",
+          "trim_id": 399417,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "ZMT",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.24",
+              "4th": "0.97",
+              "5th": "0.81",
+              "6th": "0.68",
+              "reverse": "3.54",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S ALL4",
+          "trim_id": 399420,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "ZMT",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.04",
+              "3rd": "1.37",
+              "4th": "1.03",
+              "5th": "0.95",
+              "6th": "0.79",
+              "reverse": "4.14",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S E ALL4",
+          "trim_id": 399344,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "205",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.55",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.94"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S FWD",
+          "trim_id": 399418,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "2TB",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "John Cooper Works ALL4",
+          "trim_id": 399421,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "ZMT",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.92",
+              "3rd": "1.22",
+              "4th": "0.86",
+              "5th": "0.81",
+              "6th": "0.67",
+              "reverse": "3.83",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Cooper ALL4",
+          "trim_id": 438589,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "205",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.52",
+              "2nd": "3.18",
+              "3rd": "2.05",
+              "4th": "1.49",
+              "5th": "1.24",
+              "6th": "1.00",
+              "reverse": "4.22",
+              "final_drive": "3.75",
+              "7th": "0.80",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper FWD",
+          "trim_id": 438587,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "2TF",
+            "type": "7",
+            "description": "Auto-Shift Manual",
+            "gear_ratios": {
+              "1st": "17.35",
+              "2nd": "10.23",
+              "3rd": "6.59",
+              "4th": "4.62",
+              "5th": "3.57",
+              "6th": "2.82",
+              "reverse": "15.89",
+              "final_drive": "4.18",
+              "7th": "2.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S ALL4",
+          "trim_id": 438590,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "2TB",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.52",
+              "2nd": "3.18",
+              "3rd": "2.05",
+              "4th": "1.49",
+              "5th": "1.24",
+              "6th": "1.00",
+              "reverse": "4.22",
+              "final_drive": "3.20",
+              "7th": "0.80",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "Cooper S FWD",
+          "trim_id": 438588,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "2TC",
+            "type": "7",
+            "description": "Auto-Shift Manual",
+            "gear_ratios": {
+              "1st": "16.39",
+              "2nd": "9.66",
+              "3rd": "6.18",
+              "4th": "4.33",
+              "5th": "3.35",
+              "6th": "2.66",
+              "reverse": "14.90",
+              "final_drive": "3.94",
+              "7th": "2.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50WR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            }
+          }
+        },
+        {
+          "trim_name": "John Cooper Works ALL4",
+          "trim_id": 438591,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "2TB",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.52",
+              "2nd": "3.18",
+              "3rd": "2.05",
+              "4th": "1.49",
+              "5th": "1.24",
+              "6th": "1.00",
+              "reverse": "4.22",
+              "final_drive": "3.20",
+              "7th": "0.80",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.09
+            },
+            "rear": {
+              "size": "P225/40WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.09
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Countryman",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "John Cooper Works ALL4",
+          "trim_id": 455011,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "2TC",
+            "type": "7",
+            "description": "Auto-Shift Manual",
+            "gear_ratios": {
+              "1st": "16.99",
+              "2nd": "10.59",
+              "3rd": "7.08",
+              "4th": "4.91",
+              "5th": "4.00",
+              "6th": "3.27",
+              "reverse": "16.32",
+              "final_drive": "1.74",
+              "7th": "2.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "S ALL4",
+          "trim_id": 455010,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "2TF",
+            "type": "7",
+            "description": "Auto-Shift Manual",
+            "gear_ratios": {
+              "1st": "16.99",
+              "2nd": "9.96",
+              "3rd": "6.24",
+              "4th": "4.28",
+              "5th": "3.40",
+              "6th": "2.65",
+              "reverse": "15.36",
+              "final_drive": "1.74",
+              "7th": "2.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "SE ALL4",
+          "trim_id": 461619,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "205",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 27.74
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

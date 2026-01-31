@@ -1,0 +1,4707 @@
+{
+  "make": "Mitsubishi",
+  "vehicle_count": 35,
+  "vehicles": [
+    {
+      "model": "Eclipse",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "3-Door Coupe GS 2.4L Manual",
+          "trim_id": 279089,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.58",
+              "2nd": "1.95",
+              "3rd": "1.38",
+              "4th": "1.03",
+              "5th": "0.77",
+              "reverse": "3.36",
+              "final_drive": "4.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "3-Door Coupe GS 2.4L Sportronic Automatic",
+          "trim_id": 279090,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "3-Door Coupe GT 3.8L Manual",
+          "trim_id": 279091,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.21",
+              "2nd": "2.24",
+              "3rd": "1.54",
+              "4th": "1.17",
+              "5th": "1.09",
+              "6th": "0.79",
+              "reverse": "3.46",
+              "final_drive": "(1-4) 3.78/(5,6,Rev) 3.24"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "3-Door Coupe GT 3.8L Sportronic Automatic",
+          "trim_id": 279092,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.16",
+              "3rd": "1.42",
+              "4th": "1.00",
+              "5th": "0.69",
+              "reverse": "3.12",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door AWD LS",
+          "trim_id": 280998,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.32",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door AWD Limited",
+          "trim_id": 280999,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.32",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door LS",
+          "trim_id": 280996,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.01",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Limited",
+          "trim_id": 280997,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.01",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65SR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door LS",
+          "trim_id": 287256,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.01",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "16 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door SE",
+          "trim_id": 287257,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.32",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door LS",
+          "trim_id": 287254,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.01",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "16 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SE",
+          "trim_id": 287255,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.32",
+              "reverse": "2.19",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door LS",
+          "trim_id": 293408,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.01"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door SE",
+          "trim_id": 293409,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door LS",
+          "trim_id": 293406,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.01"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SE",
+          "trim_id": 293407,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "P235/65R17",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door SE",
+          "trim_id": 317549,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "18 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door LS",
+          "trim_id": 317547,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.01"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "17 x 7"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SE",
+          "trim_id": 317548,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "18 x - TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door SE",
+          "trim_id": 329377,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "order_code": "4ST",
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "18 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door LS",
+          "trim_id": 329374,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "4ST",
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.01"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SE",
+          "trim_id": 329375,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "4ST",
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Sportronic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "4.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "18 x - TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE",
+          "trim_id": 5397,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 5398,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES V6",
+          "trim_id": 5399,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan GTZ V6",
+          "trim_id": 5401,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS V6",
+          "trim_id": 5400,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE",
+          "trim_id": 3680,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 3684,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.04"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "P195/65R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES V6",
+          "trim_id": 3687,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan GTZ V6",
+          "trim_id": 3691,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS V6",
+          "trim_id": 3689,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.495",
+              "3rd": "1.000",
+              "4th": "0.731",
+              "reverse": "2.720",
+              "final_drive": "3.74"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE 2.4L Automatic",
+          "trim_id": 262782,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES 2.4L Automatic",
+          "trim_id": 262783,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan GTS 3.8L Sportronic Automatic",
+          "trim_id": 262785,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R17",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55R17",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS 3.8L Sportronic Automatic",
+          "trim_id": 262784,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE 2.4L Automatic",
+          "trim_id": 268520,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES 2.4L Automatic",
+          "trim_id": 268521,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan GTS 3.8L Sportronic Automatic",
+          "trim_id": 268523,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55VR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55VR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS 3.8L Sportronic Automatic",
+          "trim_id": 268522,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan SE 2.4L Automatic",
+          "trim_id": 277218,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE 2.4L Automatic",
+          "trim_id": 279718,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES 2.4L Automatic",
+          "trim_id": 279719,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan GTS 3.8L Sportronic Automatic",
+          "trim_id": 279721,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS 3.8L Sportronic Automatic",
+          "trim_id": 279720,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan SE 2.4L Automatic",
+          "trim_id": 282280,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan I4 DE",
+          "trim_id": 285894,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan I4 ES",
+          "trim_id": 285895,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan I4 SE",
+          "trim_id": 286687,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V6 GTS",
+          "trim_id": 285896,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.58",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.19",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V6 Ralliart",
+          "trim_id": 285897,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan DE",
+          "trim_id": 293114,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 293115,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Ralliart",
+          "trim_id": 293116,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 295783,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Ralliart",
+          "trim_id": 295786,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Sport",
+          "trim_id": 295784,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Sport V6",
+          "trim_id": 295785,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 329140,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan SE",
+          "trim_id": 329141,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Sportronic Auto w/OD",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.21",
+              "final_drive": "4.21"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Galant",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan ES",
+          "trim_id": 337488,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.68",
+              "reverse": "2.21",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan SE",
+          "trim_id": 337489,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "2.84",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.68",
+              "reverse": "2.21",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Lancer",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan ES Automatic",
+          "trim_id": 3431,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5",
+              "diameter_inches": 23.47
+            },
+            "rear": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5",
+              "diameter_inches": 23.47
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan ES Manual",
+          "trim_id": 3429,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.583",
+              "2nd": "1.947",
+              "3rd": "1.379",
+              "4th": "1.030",
+              "5th": "0.767",
+              "reverse": "3.36",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5",
+              "diameter_inches": 23.47
+            },
+            "rear": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5",
+              "diameter_inches": 23.47
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan LS Automatic",
+          "trim_id": 3432,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan OZ-Rally Automatic",
+          "trim_id": 3435,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan OZ-Rally Manual",
+          "trim_id": 3434,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.583",
+              "2nd": "1.947",
+              "3rd": "1.379",
+              "4th": "1.030",
+              "5th": "0.767",
+              "reverse": "3.36",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "P195/60R15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Mirage",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe DE 1.5L Automatic",
+          "trim_id": 3479,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P175/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.96
+            },
+            "rear": {
+              "size": "P175/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.96
+            },
+            "spare": {
+              "size": "T105/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 19.79
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe DE 1.5L Manual",
+          "trim_id": 3478,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.583",
+              "2nd": "1.947",
+              "3rd": "1.343",
+              "4th": "0.976",
+              "5th": "0.804",
+              "reverse": "3.416",
+              "final_drive": "3.714"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P175/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.96
+            },
+            "rear": {
+              "size": "P175/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.96
+            },
+            "spare": {
+              "size": "T105/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 19.79
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe LS 1.8L Automatic",
+          "trim_id": 3481,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.842",
+              "2nd": "1.529",
+              "3rd": "1.000",
+              "4th": "0.712",
+              "reverse": "2.480",
+              "final_drive": "4.041"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 23.47
+            },
+            "rear": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 23.47
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe LS 1.8L Manual",
+          "trim_id": 3480,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.583",
+              "2nd": "1.947",
+              "3rd": "1.379",
+              "4th": "1.030",
+              "5th": "0.767",
+              "reverse": "3.363",
+              "final_drive": "3.722"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 23.47
+            },
+            "rear": {
+              "size": "P185/65R14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 23.47
+            },
+            "spare": {
+              "size": "T125/70D15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Mirage",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door HB CVT DE",
+          "trim_id": 363731,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.01 - 0.55",
+              "reverse": "3.77",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB CVT ES",
+          "trim_id": 363733,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.01 - 0.55",
+              "reverse": "3.77",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual DE",
+          "trim_id": 363730,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.91",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.80",
+              "reverse": "3.21",
+              "final_drive": "4.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual ES",
+          "trim_id": 363732,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.91",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.80",
+              "reverse": "3.21",
+              "final_drive": "4.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Mirage",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "4-Door HB CVT DE",
+          "trim_id": 368502,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.01 - 0.55",
+              "reverse": "3.77",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB CVT ES",
+          "trim_id": 368504,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.01 - 0.55",
+              "reverse": "3.77",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB CVT RF",
+          "trim_id": 381663,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.01 - 0.55",
+              "reverse": "3.77",
+              "final_drive": "3.76"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual DE",
+          "trim_id": 368501,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.91",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.80",
+              "reverse": "3.21",
+              "final_drive": "4.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual ES",
+          "trim_id": 368503,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.91",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.80",
+              "reverse": "3.21",
+              "final_drive": "4.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "rear": {
+              "size": "P165/65SR14",
+              "wheel_size": "14 X 4.5",
+              "diameter_inches": 22.44
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door AWD LS",
+          "trim_id": 101982,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "4.63",
+              "reverse": "2.48",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door AWD XLS",
+          "trim_id": 101984,
+          "drivetrain": "All-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "4.63",
+              "reverse": "2.48",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door LS",
+          "trim_id": 101981,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "4.41",
+              "reverse": "2.48",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door XLS",
+          "trim_id": 101983,
+          "drivetrain": "2-Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic",
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.71",
+              "final_drive": "4.41",
+              "reverse": "2.48",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 25.57
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door AWD LS",
+          "trim_id": 262427,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Sportronic Auto w/OD",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.13",
+              "reverse": "2.32",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door AWD XLS",
+          "trim_id": 262429,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Sportronic Auto w/OD",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.13",
+              "reverse": "2.32",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door LS",
+          "trim_id": 262426,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Sportronic Auto w/OD",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "3.94",
+              "reverse": "2.32",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door XLS",
+          "trim_id": 262428,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Sportronic Auto w/OD",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "3.94",
+              "reverse": "2.32",
+              "3rd": "1.00",
+              "2nd": "1.58",
+              "1st": "2.84"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "rear": {
+              "size": "P225/60R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 26.63
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 25.57
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 287458,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Auto",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door LS",
+          "trim_id": 287459,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Auto",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door XLS",
+          "trim_id": 287460,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Auto",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door LS",
+          "trim_id": 287461,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Auto",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 25.57
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door XLS",
+          "trim_id": 287462,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "Sportronic w/OD",
+            "description": "Auto",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T135/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 25.57
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 330354,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously variable ratio",
+            "gear_ratios": {
+              "1st": "2.34 - 0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door SE",
+          "trim_id": 330355,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously variable ratio",
+            "gear_ratios": {
+              "1st": "2.34 - 0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door XLS",
+          "trim_id": 330356,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door GT",
+          "trim_id": 330358,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SE",
+          "trim_id": 330357,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously variable ratio",
+            "gear_ratios": {
+              "1st": "2.34 - 0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 337492,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door GT",
+          "trim_id": 337494,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door SE",
+          "trim_id": 337493,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door GT",
+          "trim_id": 337496,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SE",
+          "trim_id": 337495,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 354357,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door GT",
+          "trim_id": 354359,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door SE",
+          "trim_id": 354358,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door GT",
+          "trim_id": 354361,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.19",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.68",
+              "reverse": "3.45",
+              "final_drive": "3.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SE",
+          "trim_id": 354360,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "2.34-0.39",
+              "reverse": "1.75",
+              "final_drive": "6.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 360738,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door SE",
+          "trim_id": 360739,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door GT",
+          "trim_id": 360741,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.20",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.69",
+              "reverse": "3.46",
+              "final_drive": "3.36"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SE",
+          "trim_id": 360740,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door ES",
+          "trim_id": 371348,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "P215/70HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door SE",
+          "trim_id": 371349,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door GT",
+          "trim_id": 371351,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.20",
+              "2nd": "2.40",
+              "3rd": "1.58",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.69",
+              "reverse": "3.46",
+              "final_drive": "3.36"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4WD 4-Door SE",
+          "trim_id": 371350,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.39",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander Sport",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door CVT ES",
+          "trim_id": 329892,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "CVT",
+            "type": "1",
+            "order_code": "CVT",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door CVT SE",
+          "trim_id": 329893,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "CVT",
+            "type": "1",
+            "order_code": "CVT",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Manual ES",
+          "trim_id": 329891,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "5MT",
+            "gear_ratios": {
+              "5th": "0.82",
+              "final_drive": "4.24",
+              "reverse": "3.58",
+              "4th": "1.03",
+              "3rd": "1.33",
+              "2nd": "1.91",
+              "1st": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door CVT SE",
+          "trim_id": 329894,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "CVT",
+            "type": "1",
+            "order_code": "CVT",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander Sport",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door CVT ES",
+          "trim_id": 348399,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Continuously Variable Ratio",
+            "type": "1",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door CVT SE",
+          "trim_id": 348400,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Continuously Variable Ratio",
+            "type": "1",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Manual ES",
+          "trim_id": 348398,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "5",
+            "gear_ratios": {
+              "5th": "0.82",
+              "final_drive": "4.24",
+              "reverse": "3.58",
+              "4th": "1.03",
+              "3rd": "1.33",
+              "2nd": "1.91",
+              "1st": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "rear": {
+              "size": "215/70R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 27.85
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door CVT SE",
+          "trim_id": 348401,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Continuously Variable Ratio",
+            "type": "1",
+            "gear_ratios": {
+              "5th": "0.64",
+              "final_drive": "6.47",
+              "reverse": "1.75",
+              "6th": "0.53",
+              "4th": "0.85",
+              "3rd": "1.09",
+              "2nd": "1.42",
+              "1st": "2.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "225/55R18",
+              "wheel_size": "18 x 7.0",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "T155/90D16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 26.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Outlander Sport",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2WD 4-Door CVT ES",
+          "trim_id": 362247,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.53",
+              "reverse": "1.75",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door CVT SE",
+          "trim_id": 362248,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.53",
+              "reverse": "1.75",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2WD 4-Door Manual ES",
+          "trim_id": 362246,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.83",
+              "2nd": "1.91",
+              "3rd": "1.33",
+              "4th": "1.03",
+              "5th": "0.82",
+              "reverse": "3.58",
+              "final_drive": "4.24"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door CVT ES",
+          "trim_id": 362249,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.53",
+              "reverse": "1.75",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door CVT SE",
+          "trim_id": 362250,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "2.35 - 0.53",
+              "reverse": "1.75",
+              "final_drive": "6.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door HB ES",
+          "trim_id": 337895,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "7.065"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P145/65R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 22.42
+            },
+            "rear": {
+              "size": "P175/60R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 23.27
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB SE",
+          "trim_id": 337896,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "7.065"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P145/65R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 22.42
+            },
+            "rear": {
+              "size": "P175/60R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 23.27
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door HB ES",
+          "trim_id": 365646,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P145/65HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 22.42
+            },
+            "rear": {
+              "size": "P175/60HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.27
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "4-Door HB ES",
+          "trim_id": 374014,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P145/65HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 22.42
+            },
+            "rear": {
+              "size": "P175/60HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.27
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "ES Automatic",
+          "trim_id": 382982,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.07"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P145/65HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 22.42
+            },
+            "rear": {
+              "size": "P175/60HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.27
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

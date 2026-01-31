@@ -1,0 +1,1282 @@
+{
+  "make": "GMC",
+  "vehicle_count": 9,
+  "vehicles": [
+    {
+      "model": "Acadia",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door SLE",
+          "trim_id": 285700,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "MH6",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.48",
+              "2nd": "2.87",
+              "3rd": "1.84",
+              "4th": "1.41",
+              "5th": "1.00",
+              "6th": "0.74",
+              "reverse": "2.88",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door SLT",
+          "trim_id": 285701,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "MH6",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.48",
+              "2nd": "2.87",
+              "3rd": "1.84",
+              "4th": "1.41",
+              "5th": "1.00",
+              "6th": "0.74",
+              "reverse": "2.88",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SLE",
+          "trim_id": 285698,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "MY9",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.48",
+              "2nd": "2.87",
+              "3rd": "1.84",
+              "4th": "1.41",
+              "5th": "1.00",
+              "6th": "0.74",
+              "reverse": "2.88",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door SLT",
+          "trim_id": 285699,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "MY9",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.48",
+              "2nd": "2.87",
+              "3rd": "1.84",
+              "4th": "1.41",
+              "5th": "1.00",
+              "6th": "0.74",
+              "reverse": "2.88",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "P255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Acadia",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door AT4",
+          "trim_id": 449293,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/65R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "P265/65R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Denali",
+          "trim_id": 449294,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Elevation",
+          "trim_id": 449292,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Denali",
+          "trim_id": 449290,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Elevation",
+          "trim_id": 449289,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Acadia",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door AT4",
+          "trim_id": 462825,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Denali",
+          "trim_id": 462826,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Elevation",
+          "trim_id": 462824,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Denali",
+          "trim_id": 462823,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "rear": {
+              "size": "P255/55R20",
+              "wheel_size": "20 x 8",
+              "diameter_inches": 31.04
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Elevation",
+          "trim_id": 462822,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MF8",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.49",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "rear": {
+              "size": "255/65R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 31.05
+            },
+            "spare": {
+              "size": "T135/70R18",
+              "wheel_size": "18 x 4.5",
+              "diameter_inches": 25.44
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Canyon",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "2WD Crew Cab Elevation",
+          "trim_id": 431407,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab AT4",
+          "trim_id": 431409,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab AT4X",
+          "trim_id": 431410,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            },
+            "rear": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            },
+            "spare": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Denali",
+          "trim_id": 431411,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "rear": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "spare": {
+              "size": "275/60R20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Elevation",
+          "trim_id": 431408,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Canyon",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2WD Crew Cab Elevation",
+          "trim_id": 445820,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab AT4",
+          "trim_id": 445829,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab AT4X",
+          "trim_id": 445830,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            },
+            "rear": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            },
+            "spare": {
+              "size": "LT285/70R17C",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 32.71
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Denali",
+          "trim_id": 445831,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "rear": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "spare": {
+              "size": "275/60R20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Elevation",
+          "trim_id": 445821,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "3.82",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Canyon",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "2WD Crew Cab Elevation",
+          "trim_id": 463665,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "4.56",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab AT4",
+          "trim_id": 463667,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "4.56",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Denali",
+          "trim_id": 463668,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "4.56",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "rear": {
+              "size": "275/60R20SL",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            },
+            "spare": {
+              "size": "275/60R20",
+              "wheel_size": "20 x 9",
+              "diameter_inches": 32.99
+            }
+          }
+        },
+        {
+          "trim_name": "4WD Crew Cab Elevation",
+          "trim_id": 463666,
+          "drivetrain": "Four Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MFC",
+            "gear_ratios": {
+              "6th": "1.00",
+              "8th": "0.65",
+              "7th": "0.85",
+              "reverse": "4.56",
+              "5th": "1.27",
+              "4th": "1.69",
+              "3rd": "2.08",
+              "2nd": "2.97",
+              "1st": "4.56",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "rear": {
+              "size": "265/65R18SL",
+              "wheel_size": "18 x 8.5",
+              "diameter_inches": 31.56
+            },
+            "spare": {
+              "size": "P265/70R17SL",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 31.61
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Envoy",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door 4WD",
+          "trim_id": 5216,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "M30",
+            "gear_ratios": {
+              "reverse": "2.29",
+              "4th": "0.70",
+              "3rd": "1.00",
+              "2nd": "1.63",
+              "1st": "3.06",
+              "front_axle": "3.42",
+              "rear_axle": "3.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.95
+            },
+            "rear": {
+              "size": "P235/70R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.95
+            },
+            "spare": {
+              "size": "P235/70R15",
+              "wheel_size": "15 x 7",
+              "diameter_inches": 27.95
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Hummer EV",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "e4WD Crew Cab Edition 1",
+          "trim_id": 421690,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT305/70R18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 34.81
+            },
+            "rear": {
+              "size": "LT305/70R18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 34.81
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Terrain",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Elevation",
+          "trim_id": 462505,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "8",
+            "order_code": "MGH",
+            "gear_ratios": {
+              "5th": "- TBD -",
+              "8th": "- TBD -",
+              "7th": "- TBD -",
+              "final_drive": "3.47",
+              "reverse": "- TBD -",
+              "6th": "- TBD -",
+              "4th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "T125/70R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 23.89
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Elevation",
+          "trim_id": 462504,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Continuously Variable Ratio",
+            "type": "1",
+            "order_code": "MRQ",
+            "gear_ratios": {
+              "final_drive": "5.81",
+              "reverse": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "T125/70R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 23.89
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

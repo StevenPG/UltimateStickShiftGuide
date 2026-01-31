@@ -1,0 +1,4135 @@
+{
+  "make": "Genesis",
+  "vehicle_count": 32,
+  "vehicles": [
+    {
+      "model": "G70",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "2.0T AWD",
+          "trim_id": 411365,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T RWD",
+          "trim_id": 411363,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T Sport RWD",
+          "trim_id": 411362,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.85",
+              "2nd": "2.32",
+              "3rd": "1.62",
+              "4th": "1.23",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.98",
+              "final_drive": "3.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T AWD",
+          "trim_id": 411366,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T RWD",
+          "trim_id": 411364,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G70",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "2.0T AWD",
+          "trim_id": 415945,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T RWD",
+          "trim_id": 415942,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T Sport RWD",
+          "trim_id": 415943,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.85",
+              "2nd": "2.32",
+              "3rd": "1.62",
+              "4th": "1.23",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.98",
+              "final_drive": "3.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T AWD",
+          "trim_id": 415946,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T RWD",
+          "trim_id": 415944,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G70",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "2.0T AWD",
+          "trim_id": 427677,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T RWD",
+          "trim_id": 427675,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T AWD",
+          "trim_id": 427678,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T RWD",
+          "trim_id": 427676,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 437867,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G70",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 452024,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 452022,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Sport Advanced AWD",
+          "trim_id": 452025,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Sport Advanced RWD",
+          "trim_id": 452023,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 443876,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G70",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 455686,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 455684,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Sport Advanced AWD",
+          "trim_id": 455687,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Sport Advanced RWD",
+          "trim_id": 455685,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P255/35ZR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 456982,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.39
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "3.8L AWD",
+          "trim_id": 387959,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.8L RWD",
+          "trim_id": 387957,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 387958,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "3.3T Sport AWD",
+          "trim_id": 404100,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Sport RWD",
+          "trim_id": 404097,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.8L AWD",
+          "trim_id": 404099,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.8L RWD",
+          "trim_id": 404096,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 404101,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 404098,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P275/35VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 26.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 414640,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 414638,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 414641,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T RWD",
+          "trim_id": 414639,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 425235,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 425234,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 425236,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 427684,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 427683,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 427685,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 441097,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 441098,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G80",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 457138,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "P245/50VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.65
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T Advanced AWD",
+          "trim_id": 457139,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T Sport Prestige AWD",
+          "trim_id": 457140,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.72
+            },
+            "rear": {
+              "size": "P275/35VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport Advanced AWD",
+          "trim_id": 457141,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport Prestige AWD",
+          "trim_id": 457142,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.72
+            },
+            "rear": {
+              "size": "P275/35VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.58
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 387964,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 387962,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 387965,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 387963,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 396485,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 396483,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 396486,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 396484,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 404061,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 404059,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 404062,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 404060,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.79",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.47",
+              "final_drive": "3.54",
+              "7th": "0.65",
+              "8th": "0.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 411676,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 411674,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 411677,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 411675,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 417760,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 417758,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 417761,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 417759,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "3.3T Premium AWD",
+          "trim_id": 424918,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3T Premium RWD",
+          "trim_id": 424916,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate AWD",
+          "trim_id": 424919,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5.0L Ultimate RWD",
+          "trim_id": 424917,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.54",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P275/40VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 431612,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P275/40VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T e-SC AWD",
+          "trim_id": 431613,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 28.72
+            },
+            "rear": {
+              "size": "P275/35VR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 449417,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P275/40VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T e-SC AWD",
+          "trim_id": 449418,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 28.72
+            },
+            "rear": {
+              "size": "P275/35VR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "G90",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 462791,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P275/40VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T e-SC AWD",
+          "trim_id": 462792,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.40",
+              "3rd": "1.61",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.73",
+              "7th": "0.64",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40VR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 28.72
+            },
+            "rear": {
+              "size": "P275/35VR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV60",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 427635,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 427636,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV60",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 445817,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 445818,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "Standard RWD",
+          "trim_id": 445819,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV60",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Advanced AWD",
+          "trim_id": 456095,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/45VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 29.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 456096,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P255/40WR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "Standard AWD",
+          "trim_id": 456098,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            }
+          }
+        },
+        {
+          "trim_name": "Standard RWD",
+          "trim_id": 456097,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "10.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV70",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 422521,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.18",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 422522,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV70",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 430630,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.18",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 430631,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV70",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 442915,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.18",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 442916,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV70",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 456872,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.18",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Sport AWD",
+          "trim_id": 456873,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV80",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 412945,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 412944,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 412946,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Advanced + AWD",
+          "trim_id": 412947,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV80",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 425238,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5T RWD",
+          "trim_id": 425237,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 425239,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Advanced + AWD",
+          "trim_id": 425240,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Prestige Signature AWD",
+          "trim_id": 425241,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/40VR22",
+              "wheel_size": "22 X 9.5",
+              "diameter_inches": 30.35
+            },
+            "rear": {
+              "size": "P265/40VR22",
+              "wheel_size": "22 X 9.5",
+              "diameter_inches": 30.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV80",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 427666,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 427667,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Advanced + AWD",
+          "trim_id": 427668,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "GV80",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "2.5T AWD",
+          "trim_id": 439097,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "4.36",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T AWD",
+          "trim_id": 439098,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "rear": {
+              "size": "P265/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.43
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.5T Prestige Signature AWD",
+          "trim_id": 439099,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.96",
+              "2nd": "2.47",
+              "3rd": "1.61",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.83",
+              "reverse": "2.27",
+              "final_drive": "3.91",
+              "7th": "0.65",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/40VR22",
+              "wheel_size": "22 X 9.5",
+              "diameter_inches": 30.35
+            },
+            "rear": {
+              "size": "P265/40VR22",
+              "wheel_size": "22 X 9.5",
+              "diameter_inches": 30.35
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -13,7 +13,8 @@ export default function SimulatorPanel() {
     speed,
     axleRatio,
     tireDiameter,
-    selectedPreset,
+    isCustomMode,
+    selectedVehicle,
     currentGearRatio,
     rpm,
     rpmZone,
@@ -23,7 +24,8 @@ export default function SimulatorPanel() {
     setAxleRatio,
     setTireDiameter,
     updateGearRatio,
-    loadPreset,
+    setCustomMode,
+    selectVehicle,
   } = useRPMCalculation()
 
   return (
@@ -33,10 +35,12 @@ export default function SimulatorPanel() {
         <TransmissionRatios
           gearCount={gearCount}
           gearRatios={gearRatios}
-          selectedPreset={selectedPreset}
+          isCustomMode={isCustomMode}
+          selectedVehicle={selectedVehicle}
           onGearCountChange={setGearCount}
           onGearRatioChange={updateGearRatio}
-          onPresetChange={loadPreset}
+          onCustomModeChange={setCustomMode}
+          onVehicleSelect={selectVehicle}
         />
 
         <VehicleParameters

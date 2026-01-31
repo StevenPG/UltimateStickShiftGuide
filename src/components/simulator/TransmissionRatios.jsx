@@ -1,14 +1,16 @@
-import { vehiclePresets } from '../../data/defaultVehicles'
+import VehicleSelector from './VehicleSelector'
 
 const gearCountOptions = [5, 6, 7, 8, 9, 10]
 
 export default function TransmissionRatios({
   gearCount,
   gearRatios,
-  selectedPreset,
+  isCustomMode,
+  selectedVehicle,
   onGearCountChange,
   onGearRatioChange,
-  onPresetChange,
+  onCustomModeChange,
+  onVehicleSelect,
 }) {
   const handleRatioChange = (index, value) => {
     const numValue = parseFloat(value) || 0
@@ -34,22 +36,14 @@ export default function TransmissionRatios({
         </h2>
       </div>
 
-      {/* Vehicle preset dropdown */}
+      {/* Vehicle selector */}
       <div className="mb-4">
-        <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-          Vehicle Preset
-        </label>
-        <select
-          value={selectedPreset}
-          onChange={(e) => onPresetChange(e.target.value)}
-          className="input-field"
-        >
-          {Object.entries(vehiclePresets).map(([key, preset]) => (
-            <option key={key} value={key}>
-              {preset.name}
-            </option>
-          ))}
-        </select>
+        <VehicleSelector
+          isCustomMode={isCustomMode}
+          selectedVehicle={selectedVehicle}
+          onCustomModeChange={onCustomModeChange}
+          onVehicleSelect={onVehicleSelect}
+        />
       </div>
 
       {/* Gear count selector */}

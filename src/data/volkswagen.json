@@ -1,0 +1,4061 @@
+{
+  "make": "Volkswagen",
+  "vehicle_count": 33,
+  "vehicles": [
+    {
+      "model": "Arteon",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "SE FWD",
+          "trim_id": 416082,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "QA",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.59",
+              "2nd": "3.14",
+              "3rd": "1.95",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.53",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL Premium R-Line 4MOTION",
+          "trim_id": 416084,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "Q8",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.59",
+              "2nd": "3.14",
+              "3rd": "1.95",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.53",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "rear": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL R-Line 4MOTION",
+          "trim_id": 416083,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "Q8",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.59",
+              "2nd": "3.14",
+              "3rd": "1.95",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.53",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL R-Line FWD",
+          "trim_id": 416085,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "QA",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.59",
+              "2nd": "3.14",
+              "3rd": "1.95",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.53",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Arteon",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "SE R-Line FWD",
+          "trim_id": 425651,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "RZ",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "4.81",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL Premium R-Line 4MOTION",
+          "trim_id": 425650,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "RT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "3.67",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "rear": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL R-Line 4MOTION",
+          "trim_id": 425649,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "RT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "3.67",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "rear": {
+              "size": "P245/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.72
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Arteon",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "SE R-Line FWD",
+          "trim_id": 431120,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "RZ",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "4.81",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL Premium R-Line 4MOTION",
+          "trim_id": 431119,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "RT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "3.67",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "rear": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "spare": {
+              "size": "Full-Size",
+              "wheel_size": "Full-Size"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL R-Line 4MOTION",
+          "trim_id": 431118,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "RT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.90",
+              "final_drive": "3.67",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "rear": {
+              "size": "P245/35HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.75
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CC",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Automatic 4Motion",
+          "trim_id": 308121,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.95",
+              "2nd": "2.30",
+              "3rd": "1.55",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.42",
+              "final_drive": "3.45"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Automatic Luxury",
+          "trim_id": 308119,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.50"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Automatic Sport",
+          "trim_id": 308118,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.50"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Automatic VR6 Sport",
+          "trim_id": 308120,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.95",
+              "2nd": "2.30",
+              "3rd": "1.55",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.42",
+              "final_drive": "3.45"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Manual Sport",
+          "trim_id": 308117,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "- TBD -",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door Convertible DSG 2.0T",
+          "trim_id": 285684,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Convertible DSG 3.2L",
+          "trim_id": 285685,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45HR17",
+              "wheel_size": "17\" x 7.5\"",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45HR17",
+              "wheel_size": "17\" x 7.5\"",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Convertible Manual",
+          "trim_id": 285682,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Convertible Manual 2.0T",
+          "trim_id": 285683,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv DSG Komfort",
+          "trim_id": 291919,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv DSG Lux",
+          "trim_id": 291920,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv DSG Turbo",
+          "trim_id": 291917,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv DSG VR6",
+          "trim_id": 291921,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "2.93",
+              "2nd": "1.79",
+              "3rd": "1.19",
+              "4th": "0.84",
+              "5th": "0.84",
+              "6th": "0.70",
+              "reverse": "3.34",
+              "final_drive": "4.80/3.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/40R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "235/40R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Komfort",
+          "trim_id": 291918,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Turbo",
+          "trim_id": 291916,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv DSG Komfort",
+          "trim_id": 302116,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv DSG Lux",
+          "trim_id": 302117,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Komfort",
+          "trim_id": 302115,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv DSG Komfort SULEV",
+          "trim_id": 326105,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lux SULEV",
+          "trim_id": 326106,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Komfort SULEV",
+          "trim_id": 326104,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "3.99",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Executive SULEV",
+          "trim_id": 330954,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Komfort SULEV",
+          "trim_id": 330953,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lux SULEV",
+          "trim_id": 330955,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Executive SULEV",
+          "trim_id": 352658,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Komfort SULEV",
+          "trim_id": 352661,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45H17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45H17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lux SULEV",
+          "trim_id": 352660,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Sport SULEV",
+          "trim_id": 352659,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40H18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Executive",
+          "trim_id": 361715,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Komfort",
+          "trim_id": 361713,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Sport",
+          "trim_id": 361714,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Executive",
+          "trim_id": 368867,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Final Edition",
+          "trim_id": 368868,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Komfort",
+          "trim_id": 368866,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Eos",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Komfort",
+          "trim_id": 377903,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.05",
+              "3rd": "1.30",
+              "4th": "0.90",
+              "5th": "0.91",
+              "6th": "0.76",
+              "reverse": "3.99",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door HB DSG",
+          "trim_id": 285089,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.15",
+              "3rd": "1.46",
+              "4th": "1.08",
+              "5th": "1.09",
+              "6th": "0.92",
+              "reverse": "- TBD -",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB DSG Fahrenheit",
+          "trim_id": 289135,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.15",
+              "3rd": "1.46",
+              "4th": "1.08",
+              "5th": "1.09",
+              "6th": "0.92",
+              "reverse": "- TBD -",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/40HR18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.09
+            },
+            "rear": {
+              "size": "225/40HR18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 25.09
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Manual",
+          "trim_id": 285088,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "1.64",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB DSG",
+          "trim_id": 285091,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "DSG w/OD",
+            "gear_ratios": {
+              "1st": "3.46",
+              "2nd": "2.15",
+              "3rd": "1.46",
+              "4th": "1.08",
+              "5th": "1.09",
+              "6th": "0.92",
+              "reverse": "- TBD -",
+              "final_drive": "4.06/3.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual",
+          "trim_id": 285090,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.09",
+              "3rd": "1.47",
+              "4th": "1.10",
+              "5th": "1.11",
+              "6th": "0.93",
+              "reverse": "1.64",
+              "final_drive": "3.94/3.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45HR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "2.0T Automaticbahn DSG",
+          "trim_id": 464082,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "UZ",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.76",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.75",
+              "final_drive": "3.12",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            },
+            "rear": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T Black Edition DSG",
+          "trim_id": 463763,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "PT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.19",
+              "2nd": "2.75",
+              "3rd": "1.90",
+              "4th": "1.04",
+              "5th": "0.79",
+              "6th": "0.86",
+              "reverse": "2.90",
+              "final_drive": "3.30",
+              "7th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            },
+            "rear": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T DSG",
+          "trim_id": 463762,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "PT",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.19",
+              "2nd": "2.75",
+              "3rd": "1.90",
+              "4th": "1.04",
+              "5th": "0.79",
+              "6th": "0.86",
+              "reverse": "2.90",
+              "final_drive": "3.30",
+              "7th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            },
+            "rear": {
+              "size": "P235/35YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 25.48
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T S DSG",
+          "trim_id": 464080,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "UZ",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.76",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.75",
+              "final_drive": "3.12",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.09
+            },
+            "rear": {
+              "size": "P225/40HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.09
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T SE DSG",
+          "trim_id": 464081,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "UZ",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.76",
+              "4th": "0.92",
+              "5th": "0.70",
+              "6th": "0.75",
+              "reverse": "2.75",
+              "final_drive": "3.12",
+              "7th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.09
+            },
+            "rear": {
+              "size": "P225/40HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 25.09
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Automatic Komfort FWD",
+          "trim_id": 302126,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.50"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "P235/45HR17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "2.0T SE R-Line Automatic",
+          "trim_id": 403340,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T Wolfsburg Edition Automatic",
+          "trim_id": 403339,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "2.0T R-Line Automatic",
+          "trim_id": 408442,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T S Automatic",
+          "trim_id": 408440,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T SE Automatic",
+          "trim_id": 408441,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T SEL Automatic",
+          "trim_id": 408443,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "2.0T R-Line Automatic",
+          "trim_id": 415922,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T S Automatic",
+          "trim_id": 415920,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T SE Automatic",
+          "trim_id": 415921,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "2.0T Limited Edition Automatic",
+          "trim_id": 423396,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.18",
+              "final_drive": "3.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T R-Line Automatic",
+          "trim_id": 423395,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.18",
+              "final_drive": "3.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0T SE Automatic",
+          "trim_id": 423394,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "P6",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.46",
+              "2nd": "2.51",
+              "3rd": "1.56",
+              "4th": "1.14",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.18",
+              "final_drive": "3.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Routan",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn S",
+          "trim_id": 365428,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "4.12",
+              "2nd": "2.84",
+              "3rd": "2.28",
+              "4th": "1.57",
+              "5th": "1.00",
+              "6th": "0.69",
+              "reverse": "3.21",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/65R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 27.52
+            },
+            "rear": {
+              "size": "225/65R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 27.52
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn SE w/RSE & Navigation",
+          "trim_id": 365429,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "4.12",
+              "2nd": "2.84",
+              "3rd": "2.28",
+              "4th": "1.57",
+              "5th": "1.00",
+              "6th": "0.69",
+              "reverse": "3.21",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 28.52
+            },
+            "rear": {
+              "size": "225/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 28.52
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn SEL Premium",
+          "trim_id": 365430,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/manual shift",
+            "gear_ratios": {
+              "1st": "4.12",
+              "2nd": "2.84",
+              "3rd": "2.28",
+              "4th": "1.57",
+              "5th": "1.00",
+              "6th": "0.69",
+              "reverse": "3.21",
+              "final_drive": "3.16"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 28.52
+            },
+            "rear": {
+              "size": "225/65R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 28.52
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Taos",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "S 4MOTION",
+          "trim_id": 431073,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.93",
+              "5th": "0.71",
+              "6th": "0.76",
+              "reverse": "2.90",
+              "final_drive": "5.20",
+              "7th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "S FWD",
+          "trim_id": 431071,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.07",
+              "2nd": "2.97",
+              "3rd": "1.95",
+              "4th": "1.47",
+              "5th": "1.23",
+              "6th": "1.00",
+              "reverse": "4.00",
+              "final_drive": "3.23",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SE 4MOTION",
+          "trim_id": 431074,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.93",
+              "5th": "0.71",
+              "6th": "0.76",
+              "reverse": "2.90",
+              "final_drive": "5.20",
+              "7th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SE FWD",
+          "trim_id": 431072,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.07",
+              "2nd": "2.97",
+              "3rd": "1.95",
+              "4th": "1.47",
+              "5th": "1.23",
+              "6th": "1.00",
+              "reverse": "4.00",
+              "final_drive": "3.23",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "rear": {
+              "size": "P215/50HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "SEL 4MOTION",
+          "trim_id": 431075,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.40",
+              "2nd": "2.75",
+              "3rd": "1.77",
+              "4th": "0.93",
+              "5th": "0.71",
+              "6th": "0.76",
+              "reverse": "2.90",
+              "final_drive": "5.20",
+              "7th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45HR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door V10 TDI",
+          "trim_id": 263802,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.27",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V6",
+          "trim_id": 140419,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8",
+          "trim_id": 140420,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door V10",
+          "trim_id": 268660,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.27",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V10 Special Order",
+          "trim_id": 268663,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.27",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V6",
+          "trim_id": 268658,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V6 Special Order",
+          "trim_id": 268661,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8",
+          "trim_id": 268659,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8 Special Order",
+          "trim_id": 268662,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door 3.2L V6",
+          "trim_id": 279447,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 4.2L V8",
+          "trim_id": 279448,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 5.0L V10",
+          "trim_id": 284646,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "w/Tiptronic & OD",
+            "description": "Automatic",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.27",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door V10 TDI",
+          "trim_id": 285288,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V6",
+          "trim_id": 284316,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8",
+          "trim_id": 284317,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door V10",
+          "trim_id": 291828,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45VR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P275/45YR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V6",
+          "trim_id": 291826,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "P195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8",
+          "trim_id": 291827,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45VR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P275/45YR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door V6 TDI",
+          "trim_id": 302355,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "17 x - TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door V8",
+          "trim_id": 302354,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45VR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P275/45VR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "195/75R18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door VR6",
+          "trim_id": 302353,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door V6 TDI",
+          "trim_id": 316104,
+          "drivetrain": "Four wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door VR6",
+          "trim_id": 316103,
+          "drivetrain": "Four wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic & OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "4.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "rear": {
+              "size": "P255/60HR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.05
+            },
+            "spare": {
+              "size": "195/80R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 29.28
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "V6 Executive",
+          "trim_id": 387894,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.85",
+              "2nd": "2.84",
+              "3rd": "1.86",
+              "4th": "1.44",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.83",
+              "final_drive": "3.70",
+              "7th": "0.82",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/40HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 29.66
+            },
+            "rear": {
+              "size": "P275/40HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 29.66
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "V6 Sport w/Technology",
+          "trim_id": 387893,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.85",
+              "2nd": "2.84",
+              "3rd": "1.86",
+              "4th": "1.44",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.83",
+              "final_drive": "3.70",
+              "7th": "0.82",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "V6 Wolfsburg Edition",
+          "trim_id": 387895,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.85",
+              "2nd": "2.84",
+              "3rd": "1.86",
+              "4th": "1.44",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "3.83",
+              "final_drive": "3.70",
+              "7th": "0.82",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.74
+            },
+            "rear": {
+              "size": "P275/45HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "e-Golf",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "4-Door HB Limited Edition",
+          "trim_id": 375467,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB SEL Premium",
+          "trim_id": 373328,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "e-Golf",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "4-Door HB SE",
+          "trim_id": 378528,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB SEL Premium",
+          "trim_id": 378527,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "e-Golf",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "4-Door Limited Edition",
+          "trim_id": 396986,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door SE",
+          "trim_id": 396984,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door SEL Premium",
+          "trim_id": 396985,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.70",
+              "reverse": "2.70",
+              "final_drive": "3.61"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

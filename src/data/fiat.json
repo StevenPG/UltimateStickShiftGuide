@@ -1,0 +1,4962 @@
+{
+  "make": "FIAT",
+  "vehicle_count": 29,
+  "vehicles": [
+    {
+      "model": "500",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Gucci",
+          "trim_id": 348223,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF1",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.55",
+              "4th": "1.15",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lounge",
+          "trim_id": 332882,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.90",
+              "2nd": "2.15",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.81",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Pop",
+          "trim_id": 332881,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.90",
+              "2nd": "2.15",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.81",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Abarth",
+          "trim_id": 349477,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.23",
+              "3rd": "1.52",
+              "4th": "1.15",
+              "5th": "0.87",
+              "reverse": "3.90",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Gucci",
+          "trim_id": 348222,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF1",
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.55",
+              "4th": "1.15",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Lounge",
+          "trim_id": 331529,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.90",
+              "2nd": "2.15",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.81",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Pop",
+          "trim_id": 331527,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.90",
+              "2nd": "2.15",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.81",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport",
+          "trim_id": 331528,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.90",
+              "2nd": "2.15",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.81",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Abarth",
+          "trim_id": 353374,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.238",
+              "3rd": "1.520",
+              "4th": "1.156",
+              "5th": "0.872",
+              "reverse": "3.909",
+              "final_drive": "3.353"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Gucci",
+          "trim_id": 353375,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lounge",
+          "trim_id": 353376,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Pop",
+          "trim_id": 353377,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Abarth",
+          "trim_id": 353378,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.238",
+              "3rd": "1.520",
+              "4th": "1.156",
+              "5th": "0.872",
+              "reverse": "3.909",
+              "final_drive": "3.353"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Gucci",
+          "trim_id": 353379,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Lounge",
+          "trim_id": 353380,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Pop",
+          "trim_id": 353382,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport",
+          "trim_id": 353381,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport Cattiva",
+          "trim_id": 364012,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.174",
+              "3rd": "1.345",
+              "4th": "0.974",
+              "5th": "0.766",
+              "reverse": "3.818",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Turbo",
+          "trim_id": 355148,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.238",
+              "3rd": "1.520",
+              "4th": "1.156",
+              "5th": "0.872",
+              "reverse": "3.909",
+              "final_drive": "3.353"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Turbo Cattiva",
+          "trim_id": 364013,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.909",
+              "2nd": "2.238",
+              "3rd": "1.520",
+              "4th": "1.156",
+              "5th": "0.872",
+              "reverse": "3.909",
+              "final_drive": "3.353"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "195/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Abarth",
+          "trim_id": 364691,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv GQ Edition",
+          "trim_id": 367472,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lounge",
+          "trim_id": 364690,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Pop",
+          "trim_id": 364689,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB 1957 Edition",
+          "trim_id": 367626,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Abarth",
+          "trim_id": 364688,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Lounge",
+          "trim_id": 364686,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Pop",
+          "trim_id": 364684,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport",
+          "trim_id": 364685,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Turbo",
+          "trim_id": 364687,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv 1957 Edition",
+          "trim_id": 375988,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Abarth",
+          "trim_id": 369626,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lounge",
+          "trim_id": 369625,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Pop",
+          "trim_id": 369624,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB 1957 Edition",
+          "trim_id": 369623,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Abarth",
+          "trim_id": 369620,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Lounge",
+          "trim_id": 369619,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Pop",
+          "trim_id": 369618,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Ribelle",
+          "trim_id": 373812,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport",
+          "trim_id": 369622,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Turbo",
+          "trim_id": 369621,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Abarth",
+          "trim_id": 377640,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Easy",
+          "trim_id": 377641,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Lounge",
+          "trim_id": 377639,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Pop",
+          "trim_id": 377638,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Abarth",
+          "trim_id": 377633,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Easy",
+          "trim_id": 377636,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Lounge",
+          "trim_id": 377632,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Pop",
+          "trim_id": 377631,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Retro",
+          "trim_id": 377637,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Sport",
+          "trim_id": 377635,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door HB Turbo",
+          "trim_id": 377634,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Cabrio",
+          "trim_id": 386918,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Hatch",
+          "trim_id": 386917,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Cabrio",
+          "trim_id": 386916,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 386914,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Cabrio",
+          "trim_id": 386915,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 386913,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDF",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.17",
+              "3rd": "1.34",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.82",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "1957 Edition Cabrio",
+          "trim_id": 404295,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "1957 Edition Hatch",
+          "trim_id": 404294,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Abarth Cabrio",
+          "trim_id": 398542,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Abarth Hatch",
+          "trim_id": 398539,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Cabrio",
+          "trim_id": 398541,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 398538,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Cabrio",
+          "trim_id": 398540,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 398537,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Abarth Cabrio",
+          "trim_id": 404576,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Abarth Hatch",
+          "trim_id": 404573,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Cabrio",
+          "trim_id": 404575,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 404572,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Cabrio",
+          "trim_id": 404574,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 404571,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Retro Cabrio",
+          "trim_id": 404645,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        },
+        {
+          "trim_name": "Retro Hatch",
+          "trim_id": 404644,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DDE",
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.24",
+              "3rd": "1.52",
+              "4th": "1.16",
+              "5th": "0.87",
+              "reverse": "3.91",
+              "final_drive": "3.35"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            },
+            "rear": {
+              "size": "P195/45HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 22.91
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "5-Door HB Easy",
+          "trim_id": 360319,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Lounge",
+          "trim_id": 360321,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DA1",
+            "type": "6",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.27",
+              "3rd": "1.44",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "3.91",
+              "final_drive": "4.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Pop",
+          "trim_id": 360318,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Trekking",
+          "trim_id": 360320,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "5-Door HB Easy",
+          "trim_id": 377643,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Lounge",
+          "trim_id": 377645,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Pop",
+          "trim_id": 377642,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Trekking",
+          "trim_id": 377644,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door HB Urbana Trekking",
+          "trim_id": 377646,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "3.83"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 387036,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 387034,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Hatch",
+          "trim_id": 387035,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 393349,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 393347,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Hatch",
+          "trim_id": 393348,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 400390,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 400388,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Hatch",
+          "trim_id": 400389,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Hatch",
+          "trim_id": 404354,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500L",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Lounge Hatch",
+          "trim_id": 407766,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Pop Hatch",
+          "trim_id": 407763,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Hatch",
+          "trim_id": 407764,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Hatch",
+          "trim_id": 407765,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DF4",
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.04",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.85",
+              "6th": "0.67",
+              "reverse": "3.19",
+              "final_drive": "3.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "P225/45HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Easy",
+          "trim_id": 374438,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Lounge",
+          "trim_id": 374440,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Trekking",
+          "trim_id": 374439,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Trekking Plus",
+          "trim_id": 374437,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Easy",
+          "trim_id": 374433,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Lounge",
+          "trim_id": 374435,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Pop",
+          "trim_id": 374432,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Trekking",
+          "trim_id": 374434,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Trekking Plus",
+          "trim_id": 374436,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Lounge AWD",
+          "trim_id": 388979,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge FWD",
+          "trim_id": 388977,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 388980,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Pop FWD",
+          "trim_id": 388975,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking AWD",
+          "trim_id": 388978,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking FWD",
+          "trim_id": 388976,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Edition AWD",
+          "trim_id": 393824,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Edition FWD",
+          "trim_id": 393823,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Blue Sky Edition AWD",
+          "trim_id": 397952,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Blue Sky Edition FWD",
+          "trim_id": 397951,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge AWD",
+          "trim_id": 392659,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Lounge FWD",
+          "trim_id": 392656,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 392657,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Pop FWD",
+          "trim_id": 392654,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DE1",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.12",
+              "3rd": "1.36",
+              "4th": "0.98",
+              "5th": "0.76",
+              "6th": "0.62",
+              "reverse": "4.00",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking AWD",
+          "trim_id": 392658,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking FWD",
+          "trim_id": 392655,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            },
+            "rear": {
+              "size": "P215/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.31
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Edition AWD",
+          "trim_id": 396988,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Edition FWD",
+          "trim_id": 396987,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "120th Anniversary Edition AWD",
+          "trim_id": 407627,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "Blue Sky Edition AWD",
+          "trim_id": 404864,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 401876,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking AWD",
+          "trim_id": 401877,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Plus AWD",
+          "trim_id": 401878,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Urbana Edition AWD",
+          "trim_id": 404805,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.31
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 416835,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 416838,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking AWD",
+          "trim_id": 416836,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Plus AWD",
+          "trim_id": 416837,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 424776,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 424778,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking AWD",
+          "trim_id": 424777,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Trekking Plus AWD",
+          "trim_id": 427907,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Yacht Club Capri AWD",
+          "trim_id": 424779,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500X",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Pop AWD",
+          "trim_id": 436164,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            },
+            "rear": {
+              "size": "P215/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.16
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 436165,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "DFH",
+            "type": "9",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "2.84",
+              "3rd": "1.91",
+              "4th": "1.38",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "3.83",
+              "final_drive": "3.73",
+              "7th": "0.70",
+              "8th": "0.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            },
+            "rear": {
+              "size": "P215/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 27.31
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2-Door HB",
+          "trim_id": 358813,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "185/55R15",
+              "wheel_size": "15 x 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door HB BATTERY ELECTRIC",
+          "trim_id": 364753,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door HB BATTERY ELECTRIC",
+          "trim_id": 369310,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door HB",
+          "trim_id": 377768,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Hatch",
+          "trim_id": 387172,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Hatch",
+          "trim_id": 400772,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Hatch",
+          "trim_id": 404551,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DAC",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "reverse": "9.59",
+              "final_drive": "9.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 5.5",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55HR15",
+              "wheel_size": "15 X 6.5",
+              "diameter_inches": 23.01
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "500e",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Giorgio Armani FWD",
+          "trim_id": 469164,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DCA",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "INSPI FWD",
+          "trim_id": 469163,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DCA",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "Icona FWD",
+          "trim_id": 470573,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "DCA",
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.60"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

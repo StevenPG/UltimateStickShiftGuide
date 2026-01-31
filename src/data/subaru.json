@@ -1,0 +1,4368 @@
+{
+  "make": "Subaru",
+  "vehicle_count": 31,
+  "vehicles": [
+    {
+      "model": "BRZ",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe Limited Automatic",
+          "trim_id": 350875,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.538",
+              "2nd": "2.060",
+              "3rd": "1.404",
+              "4th": "1.000",
+              "5th": "0.713",
+              "6th": "0.582",
+              "reverse": "3.168",
+              "final_drive": "4.100"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "T135/80D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 24.5
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Limited Manual",
+          "trim_id": 350874,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.626",
+              "2nd": "2.188",
+              "3rd": "1.541",
+              "4th": "1.213",
+              "5th": "1.000",
+              "6th": "0.767",
+              "reverse": "3.437",
+              "final_drive": "4.100"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "T135/80D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 24.5
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Premium Automatic",
+          "trim_id": 350873,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.538",
+              "2nd": "2.060",
+              "3rd": "1.404",
+              "4th": "1.000",
+              "5th": "0.713",
+              "6th": "0.582",
+              "reverse": "3.168",
+              "final_drive": "4.100"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "T135/80D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 24.5
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Premium Manual",
+          "trim_id": 350652,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.626",
+              "2nd": "2.188",
+              "3rd": "1.541",
+              "4th": "1.213",
+              "5th": "1.000",
+              "6th": "0.767",
+              "reverse": "3.437",
+              "final_drive": "4.100"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "T135/80D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 24.5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe Automatic Limited",
+          "trim_id": 364206,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Limited",
+          "trim_id": 364207,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Premium",
+          "trim_id": 364205,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe Automatic Limited",
+          "trim_id": 368499,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Limited",
+          "trim_id": 368498,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Premium",
+          "trim_id": 368497,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Series.Blue",
+          "trim_id": 368500,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe Automatic Limited",
+          "trim_id": 381167,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Limited",
+          "trim_id": 381166,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Premium",
+          "trim_id": 381165,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Manual Series.HyperBlue",
+          "trim_id": 381168,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 388293,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 388292,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 388291,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Series.Yellow Manual",
+          "trim_id": 388294,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 397994,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 397993,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 397992,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "tS Manual",
+          "trim_id": 397995,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 403809,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 403808,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 403807,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Series.Gray Manual",
+          "trim_id": 403810,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 409972,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 409971,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "tS Manual",
+          "trim_id": 409973,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 421750,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 421749,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Automatic",
+          "trim_id": 421752,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 421751,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 428086,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 428085,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Automatic",
+          "trim_id": 428084,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 428083,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 24.62
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 448971,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 448970,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 448969,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            }
+          }
+        },
+        {
+          "trim_name": "tS Manual",
+          "trim_id": 448972,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "BRZ",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Limited Automatic",
+          "trim_id": 464391,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.06",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.44",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Limited Manual",
+          "trim_id": 464390,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "Premium Manual",
+          "trim_id": 464389,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            },
+            "rear": {
+              "size": "P215/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.62
+            }
+          }
+        },
+        {
+          "trim_name": "Series.Purple Manual",
+          "trim_id": 464393,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        },
+        {
+          "trim_name": "tS Manual",
+          "trim_id": 464392,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.63",
+              "2nd": "2.19",
+              "3rd": "1.54",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.77",
+              "reverse": "3.44",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            },
+            "rear": {
+              "size": "P215/40YR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 24.77
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "5-Door Automatic 2.0i Limited",
+          "trim_id": 352925,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "3.581",
+              "2nd": "2.262",
+              "3rd": "1.658",
+              "4th": "1.208",
+              "5th": "0.885",
+              "6th": "0.618",
+              "reverse": "3.667",
+              "final_drive": "3.700"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "T145/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.28
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Automatic 2.0i Premium",
+          "trim_id": 352924,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Continuously Variable Ratio",
+            "gear_ratios": {
+              "1st": "3.581",
+              "2nd": "2.262",
+              "3rd": "1.658",
+              "4th": "1.208",
+              "5th": "0.885",
+              "6th": "0.618",
+              "reverse": "3.667",
+              "final_drive": "3.700"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "T145/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.28
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Manual 2.0i Premium",
+          "trim_id": 352923,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.545",
+              "2nd": "1.888",
+              "3rd": "1.296",
+              "4th": "0.972",
+              "5th": "0.780",
+              "reverse": "3.333",
+              "final_drive": "4.444"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "T145/90D16",
+              "wheel_size": "Compact",
+              "diameter_inches": 26.28
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "5-Door 2.0i",
+          "trim_id": 363853,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.42 - 0.73",
+              "reverse": "3.50",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door 2.0i Touring",
+          "trim_id": 363854,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.42 - 0.73",
+              "reverse": "3.50",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Automatic 2.0i Limited",
+          "trim_id": 363852,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Automatic 2.0i Premium",
+          "trim_id": 363851,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "_5MT07",
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "2nd": "1.89",
+              "3rd": "1.30",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.33",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Manual 2.0i Premium",
+          "trim_id": 363850,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.89",
+              "3rd": "1.30",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.33",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "2.0i Limited CVT",
+          "trim_id": 389690,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Manual",
+          "trim_id": 389687,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.89",
+              "3rd": "1.30",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.33",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Premium CVT",
+          "trim_id": 389689,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "_5MT07",
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "2nd": "1.89",
+              "3rd": "1.30",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.33",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Premium Manual",
+          "trim_id": 389688,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "1.89",
+              "3rd": "1.30",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.33",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "2.0i CVT",
+          "trim_id": 394639,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT09",
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.67",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.82",
+              "6th": "0.74",
+              "reverse": "4.07",
+              "final_drive": "3.90",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Limited CVT",
+          "trim_id": 394638,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.67",
+              "reverse": "3.69",
+              "final_drive": "3.90",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Manual",
+          "trim_id": 394635,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.82",
+              "6th": "0.74",
+              "reverse": "4.07",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Premium CVT",
+          "trim_id": 394637,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT09",
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.67",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.82",
+              "6th": "0.74",
+              "reverse": "4.07",
+              "final_drive": "3.90",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.0i Premium Manual",
+          "trim_id": 394636,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.82",
+              "6th": "0.74",
+              "reverse": "4.07",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 437880,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.50",
+              "reverse": "4.38",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited AWD",
+          "trim_id": 437883,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium AWD",
+          "trim_id": 437881,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.91",
+              "reverse": "4.38",
+              "final_drive": "3.90",
+              "7th": "0.72",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 437882,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Wilderness AWD",
+          "trim_id": 440080,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "4.11",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Crosstrek",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 464382,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.50",
+              "reverse": "4.38",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited AWD",
+          "trim_id": 464385,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium AWD",
+          "trim_id": 464383,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 464384,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Wilderness AWD",
+          "trim_id": 464386,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.94",
+              "reverse": "4.38",
+              "final_drive": "4.11",
+              "7th": "0.73",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Forester",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door L Automatic",
+          "trim_id": 5452,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.44",
+              "reverse": "2.27",
+              "3rd": "1.00",
+              "2nd": "1.62",
+              "1st": "3.03"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            },
+            "rear": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            },
+            "spare": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door L Manual",
+          "trim_id": 5451,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "4th": "1.09",
+              "final_drive": "4.11",
+              "reverse": "3.33",
+              "5th": "0.78",
+              "3rd": "1.45",
+              "2nd": "2.11",
+              "1st": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            },
+            "rear": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            },
+            "spare": {
+              "size": "205/70SR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 26.3
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door S Automatic",
+          "trim_id": 5454,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "0.69",
+              "final_drive": "4.44",
+              "reverse": "2.27",
+              "3rd": "1.00",
+              "2nd": "1.62",
+              "1st": "3.03"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door S Manual",
+          "trim_id": 5453,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "4th": "1.09",
+              "final_drive": "4.11",
+              "reverse": "3.33",
+              "5th": "0.78",
+              "3rd": "1.45",
+              "2nd": "2.11",
+              "1st": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "215/60HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 26.16
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Forester",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "2.5i",
+          "trim_id": 403500,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Limited",
+          "trim_id": 403502,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Premium",
+          "trim_id": 403501,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Sport",
+          "trim_id": 403504,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Touring",
+          "trim_id": 403503,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Forester",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "CVT",
+          "trim_id": 410619,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited CVT",
+          "trim_id": 410622,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium CVT",
+          "trim_id": 410620,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport CVT",
+          "trim_id": 410621,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring CVT",
+          "trim_id": 410623,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Forester",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "CVT",
+          "trim_id": 416766,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited CVT",
+          "trim_id": 416769,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium CVT",
+          "trim_id": 416767,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.51",
+              "reverse": "3.69",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "rear": {
+              "size": "P225/60HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 27.63
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport CVT",
+          "trim_id": 416768,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring CVT",
+          "trim_id": 416770,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.60 - 0.75",
+              "reverse": "3.69",
+              "final_drive": "3.70",
+              "7th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "rear": {
+              "size": "P225/55HR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 27.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "2.5i",
+          "trim_id": 386376,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Limited",
+          "trim_id": 386378,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Premium",
+          "trim_id": 386377,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Sport",
+          "trim_id": 386380,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.6R Limited",
+          "trim_id": 386379,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.10 - 0.54",
+              "reverse": "3.02",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "2.5i",
+          "trim_id": 394875,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Limited",
+          "trim_id": 394878,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Premium",
+          "trim_id": 394876,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Sport",
+          "trim_id": 394877,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.6R Limited",
+          "trim_id": 394879,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.10 - 0.54",
+              "reverse": "3.02",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "2.5i",
+          "trim_id": 402622,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Limited",
+          "trim_id": 402625,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Premium",
+          "trim_id": 402623,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5i Sport",
+          "trim_id": 402624,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.58 - 0.62",
+              "reverse": "3.67",
+              "final_drive": "3.90"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.6R Limited",
+          "trim_id": 402626,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.10 - 0.54",
+              "reverse": "3.02",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "CVT",
+          "trim_id": 428847,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited CVT",
+          "trim_id": 428850,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium CVT",
+          "trim_id": 428848,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport CVT",
+          "trim_id": 428849,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring XT CVT",
+          "trim_id": 428851,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 438603,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited AWD",
+          "trim_id": 438605,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium AWD",
+          "trim_id": 438604,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 438606,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring XT AWD",
+          "trim_id": 438607,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Legacy",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 454575,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Limited AWD",
+          "trim_id": 454577,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Premium AWD",
+          "trim_id": 454576,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "4.07 - 0.84",
+              "reverse": "4.38",
+              "final_drive": "3.70",
+              "7th": "0.67",
+              "8th": "0.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 454578,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring XT AWD",
+          "trim_id": 454579,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "CVT w/OD",
+            "gear_ratios": {
+              "1st": "3.23 - 0.77",
+              "reverse": "3.14",
+              "final_drive": "3.90",
+              "7th": "0.60",
+              "8th": "0.47"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "rear": {
+              "size": "P225/50VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 26.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Tribeca",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door 3.6R Limited",
+          "trim_id": 338687,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/Sportshift",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.26",
+              "3rd": "1.47",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "2.37",
+              "final_drive": "3.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 3.6R Premium",
+          "trim_id": 338686,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/Sportshift",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.26",
+              "3rd": "1.47",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "2.37",
+              "final_drive": "3.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 3.6R Touring",
+          "trim_id": 338691,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/Sportshift",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.26",
+              "3rd": "1.47",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "2.37",
+              "final_drive": "3.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Tribeca",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4-Door 3.6R Limited",
+          "trim_id": 352807,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.540",
+              "2nd": "2.264",
+              "3rd": "1.471",
+              "4th": "1.000",
+              "5th": "0.834",
+              "reverse": "2.370",
+              "final_drive": "3.583"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "T165/80R17",
+              "wheel_size": "T165/80R17",
+              "diameter_inches": 27.39
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Tribeca",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door 3.6R Limited",
+          "trim_id": 363822,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.26",
+              "3rd": "1.47",
+              "4th": "1.00",
+              "5th": "0.83",
+              "reverse": "2.37",
+              "final_drive": "3.58"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

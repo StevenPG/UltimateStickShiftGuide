@@ -1,0 +1,2476 @@
+{
+  "make": "Tesla",
+  "vehicle_count": 33,
+  "vehicles": [
+    {
+      "model": "Cybertruck",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 469762,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "15.02",
+              "rear_axle": "15.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT285/65HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 34.59
+            },
+            "rear": {
+              "size": "LT285/65HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 34.59
+            }
+          }
+        },
+        {
+          "trim_name": "Cyberbeast AWD",
+          "trim_id": 469763,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "15.02",
+              "rear_axle": "15.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "LT285/65HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 34.59
+            },
+            "rear": {
+              "size": "LT285/65HR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 34.59
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range 4x2",
+          "trim_id": 473965,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "front_axle": "15.02",
+              "rear_axle": "15.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P285/65HR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 32.59
+            },
+            "rear": {
+              "size": "P285/65HR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 32.59
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Long Range RWD",
+          "trim_id": 396466,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Long Range Battery AWD",
+          "trim_id": 402454,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range Battery RWD",
+          "trim_id": 401451,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Mid Range Battery RWD",
+          "trim_id": 404382,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 402455,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 412468,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 412469,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range Plus RWD",
+          "trim_id": 412467,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range RWD",
+          "trim_id": 416485,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 418768,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 418769,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range Plus RWD",
+          "trim_id": 418767,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 426156,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 426157,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 425682,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 441106,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 434046,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 434045,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 452437,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range RWD",
+          "trim_id": 460590,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 457654,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P275/30YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.5
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 452436,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model 3",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 464775,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range RWD",
+          "trim_id": 464774,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 469989,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P275/30YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 26.5
+            }
+          }
+        },
+        {
+          "trim_name": "Standard RWD",
+          "trim_id": 481168,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45WR18",
+              "wheel_size": "18 X 8.5",
+              "diameter_inches": 26.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 358155,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Performance",
+          "trim_id": 358156,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Signature",
+          "trim_id": 358157,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Signature Performance",
+          "trim_id": 358158,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 358124,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Performance",
+          "trim_id": 358125,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "gear_ratios": {
+              "1st": "9.73",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "245/45R19",
+              "wheel_size": "19 x - TBD -",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 60 kWh Battery",
+          "trim_id": 366454,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 85 kWh Battery",
+          "trim_id": 374427,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan P85",
+          "trim_id": 366456,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan P85D",
+          "trim_id": 392702,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "100D AWD",
+          "trim_id": 398256,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "75D AWD",
+          "trim_id": 398255,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "P100D AWD",
+          "trim_id": 398257,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45WR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 425837,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 425838,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 433991,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 433992,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range AWD",
+          "trim_id": 447165,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 452416,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 452415,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model S",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 469664,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 465673,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P285/40WR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "100D AWD",
+          "trim_id": 390564,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "75D AWD",
+          "trim_id": 390562,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "90D AWD",
+          "trim_id": 390561,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "P100D AWD",
+          "trim_id": 390563,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "100D AWD",
+          "trim_id": 398260,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "75D AWD",
+          "trim_id": 398259,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "P100D AWD",
+          "trim_id": 398261,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 412488,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range Plus AWD",
+          "trim_id": 412891,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 412487,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 419671,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range Plus AWD",
+          "trim_id": 418665,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 418664,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28",
+              "final_drive": "9.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 419672,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 434140,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 434141,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range AWD",
+          "trim_id": 447172,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 452414,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 452413,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model X",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 466068,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        },
+        {
+          "trim_name": "Plaid AWD",
+          "trim_id": 466067,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.28"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P275/45VR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 29.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model Y",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 412745,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 412746,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.03
+            },
+            "rear": {
+              "size": "P275/35YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 28.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model Y",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 418594,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 418595,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.03
+            },
+            "rear": {
+              "size": "P275/35YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 28.58
+            }
+          }
+        },
+        {
+          "trim_name": "Standard Range RWD",
+          "trim_id": 419391,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model Y",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 425754,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 426162,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.03
+            },
+            "rear": {
+              "size": "P275/35YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 28.58
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model Y",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 440166,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 434049,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 434050,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.03
+            },
+            "rear": {
+              "size": "P275/35YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 28.58
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 449736,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Model Y",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Long Range AWD",
+          "trim_id": 452422,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Long Range RWD",
+          "trim_id": 458722,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Performance AWD",
+          "trim_id": 452423,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.03
+            },
+            "rear": {
+              "size": "P275/35YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 28.58
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 452424,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "9.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "P255/45WR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 28.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Roadster",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 313277,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "175/55R16",
+              "wheel_size": "16 x 6.0",
+              "diameter_inches": 23.58
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Roadster",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 321944,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "175/55R16",
+              "wheel_size": "16 x 6.0",
+              "diameter_inches": 23.58
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Sport",
+          "trim_id": 321945,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/50R16",
+              "wheel_size": "16 x 6.0",
+              "diameter_inches": 23.68
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Roadster",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv",
+          "trim_id": 329982,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "175/50R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 22.89
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 24.97
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Sport",
+          "trim_id": 329983,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "175/55R16",
+              "wheel_size": "16 x 6.0",
+              "diameter_inches": 23.58
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Roadster",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Sport",
+          "trim_id": 348304,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.12"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "175/55R16",
+              "wheel_size": "16 x 6.0",
+              "diameter_inches": 23.58
+            },
+            "rear": {
+              "size": "225/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

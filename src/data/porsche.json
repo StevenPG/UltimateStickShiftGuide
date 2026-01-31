@@ -1,0 +1,4909 @@
+{
+  "make": "Porsche",
+  "vehicle_count": 42,
+  "vehicles": [
+    {
+      "model": "718",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Coupe",
+          "trim_id": 390873,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "Roadster",
+          "trim_id": 384833,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "S Coupe",
+          "trim_id": 390874,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 10",
+              "diameter_inches": 27.35
+            }
+          }
+        },
+        {
+          "trim_name": "S Roadster",
+          "trim_id": 384832,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 10",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "718",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Coupe",
+          "trim_id": 394147,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "GTS Coupe",
+          "trim_id": 397934,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "GTS Roadster",
+          "trim_id": 397925,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "Roadster",
+          "trim_id": 394145,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9.5",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "S Coupe",
+          "trim_id": 394148,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 10",
+              "diameter_inches": 27.35
+            }
+          }
+        },
+        {
+          "trim_name": "S Roadster",
+          "trim_id": 394146,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 10",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "918 Spyder",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 367205,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "250",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.29",
+              "3rd": "1.58",
+              "4th": "1.19",
+              "5th": "0.97",
+              "6th": "0.83",
+              "reverse": "3.55",
+              "final_drive": "3.09",
+              "7th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/35YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P325/30YR21",
+              "wheel_size": "21 X 12.5",
+              "diameter_inches": 28.68
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster w/Weissach Pkg",
+          "trim_id": 367206,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "250",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.91",
+              "2nd": "2.29",
+              "3rd": "1.58",
+              "4th": "1.19",
+              "5th": "0.97",
+              "6th": "0.83",
+              "reverse": "3.55",
+              "final_drive": "3.09",
+              "7th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/35YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P325/30YR21",
+              "wheel_size": "21 X 12.5",
+              "diameter_inches": 28.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster Manual",
+          "trim_id": 5420,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S Manual",
+          "trim_id": 5422,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.20",
+              "3rd": "1.52",
+              "4th": "1.22",
+              "5th": "1.02",
+              "6th": "0.84",
+              "reverse": "3.55",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40R17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S w/Tiptronic",
+          "trim_id": 5423,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40R17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster w/Tiptronic",
+          "trim_id": 5421,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster 5-Speed Manual",
+          "trim_id": 6717,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S 6-Speed Manual",
+          "trim_id": 6719,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.20",
+              "3rd": "1.52",
+              "4th": "1.22",
+              "5th": "1.02",
+              "6th": "0.84",
+              "reverse": "3.55",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40R17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S Tiptronic",
+          "trim_id": 6720,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40R17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Tiptronic",
+          "trim_id": 6718,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/",
+            "description_extended": "Tiptronic",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster 5-Speed Manual",
+          "trim_id": 8134,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S 6-Speed Manual",
+          "trim_id": 8136,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.20",
+              "3rd": "1.52",
+              "4th": "1.22",
+              "5th": "1.02",
+              "6th": "0.84",
+              "reverse": "3.55",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50ZR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S Tiptronic",
+          "trim_id": 8137,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/TiptroniC",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50ZR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Tiptronic",
+          "trim_id": 8135,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/TiptroniC",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.17"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster 5-Speed Manual",
+          "trim_id": 103208,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S 6-Speed Manual",
+          "trim_id": 103210,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.20",
+              "3rd": "1.52",
+              "4th": "1.22",
+              "5th": "1.02",
+              "6th": "0.84",
+              "reverse": "3.55",
+              "final_drive": "3.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50ZR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S Tiptronic",
+          "trim_id": 103211,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic",
+            "gear_ratios": {
+              "1st": "3.66",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50ZR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P255/40ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 25.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Tiptronic",
+          "trim_id": 103209,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "w/Tiptronic",
+            "gear_ratios": {
+              "1st": "3.66",
+              "2nd": "2.00",
+              "3rd": "1.41",
+              "4th": "1.00",
+              "5th": "0.74",
+              "reverse": "4.10",
+              "final_drive": "4.02"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR16",
+              "wheel_size": "16 x 6",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P225/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 268633,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P235/50ZR18",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 268634,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.33",
+              "final_drive": "3.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 26.35
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 280884,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P235/50ZR18",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 27.25
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 280885,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.33",
+              "final_drive": "3.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 26.35
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 286470,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 8.0",
+              "diameter_inches": 26.25
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 286471,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 328352,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.66",
+              "2nd": "2.05",
+              "3rd": "1.40",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P235/55ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 27.18
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 328353,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.30",
+              "2nd": "1.95",
+              "3rd": "1.40",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Spyder",
+          "trim_id": 328354,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -",
+              "7th": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 335458,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.40",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 25.88
+            },
+            "rear": {
+              "size": "P235/50ZR17",
+              "wheel_size": "17 x 8.5",
+              "diameter_inches": 26.25
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 335459,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S Black Edition",
+          "trim_id": 335461,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Spyder",
+          "trim_id": 335460,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/35ZR19",
+              "wheel_size": "19 x 10.0",
+              "diameter_inches": 26.3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 350434,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 350435,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40Z19",
+              "wheel_size": "19 X 8.0",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 369270,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster GTS",
+          "trim_id": 369271,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 369269,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Boxster",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Roadster",
+          "trim_id": 379777,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Black Edition",
+          "trim_id": 379779,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster GTS",
+          "trim_id": 379778,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster S",
+          "trim_id": 379776,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Roadster Spyder",
+          "trim_id": 379780,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 10.5",
+              "diameter_inches": 27.3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door S",
+          "trim_id": 108923,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "order_code": "G0R",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.10",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Turbo",
+          "trim_id": 108924,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "order_code": "G0R",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.70",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door",
+          "trim_id": 263903,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door S",
+          "trim_id": 262521,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.10",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Turbo",
+          "trim_id": 262522,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.70",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door 6-Speed Manual",
+          "trim_id": 268209,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.28",
+              "final_drive": "3.44",
+              "reverse": "3.59",
+              "6th": "0.88",
+              "5th": "1.08",
+              "3rd": "1.61",
+              "2nd": "2.32",
+              "1st": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door S Tiptronic",
+          "trim_id": 268211,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.10",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Tiptronic",
+          "trim_id": 268210,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "4.56",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P235/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Turbo Tiptronic",
+          "trim_id": 268212,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "6",
+            "gear_ratios": {
+              "4th": "1.16",
+              "final_drive": "3.70",
+              "reverse": "3.39",
+              "6th": "0.69",
+              "5th": "0.86",
+              "3rd": "1.56",
+              "2nd": "2.37",
+              "1st": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Manual",
+          "trim_id": 328355,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "4.68",
+              "2nd": "2.53",
+              "3rd": "1.69",
+              "4th": "1.21",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "4.27",
+              "final_drive": "3.70"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S",
+          "trim_id": 328358,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "8",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "3.09",
+              "reverse": "4.07",
+              "6th": "1.00",
+              "4th": "1.44",
+              "3rd": "1.86",
+              "2nd": "2.84",
+              "1st": "4.97"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S Hybrid",
+          "trim_id": 328357,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "8",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "3.27",
+              "reverse": "4.02",
+              "6th": "1.00",
+              "4th": "1.43",
+              "3rd": "1.84",
+              "2nd": "2.81",
+              "1st": "4.92"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Tiptronic",
+          "trim_id": 328356,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "8",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.67",
+              "7th": "0.82",
+              "final_drive": "3.70",
+              "reverse": "3.83",
+              "6th": "1.00",
+              "4th": "1.44",
+              "3rd": "1.86",
+              "2nd": "2.84",
+              "1st": "4.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Turbo",
+          "trim_id": 328359,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "8",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "2.92",
+              "reverse": "4.03",
+              "6th": "1.00",
+              "4th": "1.43",
+              "3rd": "1.84",
+              "2nd": "2.81",
+              "1st": "4.92"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 29.43
+            },
+            "rear": {
+              "size": "P265/50R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 29.43
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Manual",
+          "trim_id": 336455,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Manual",
+            "type": "6",
+            "gear_ratios": {
+              "5th": "1.00",
+              "final_drive": "3.70",
+              "reverse": "- TBD -",
+              "6th": "0.84",
+              "4th": "1.21",
+              "3rd": "1.69",
+              "2nd": "2.53",
+              "1st": "4.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x 6.5",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S",
+          "trim_id": 336458,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/manual shift",
+            "type": "6",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "3.09",
+              "reverse": "- TBD -",
+              "6th": "1.00",
+              "4th": "1.44",
+              "3rd": "1.86",
+              "2nd": "2.84",
+              "1st": "4.97"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x 6.5",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S Hybrid",
+          "trim_id": 336457,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/manual shift",
+            "type": "8",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "3.27",
+              "reverse": "- TBD -",
+              "6th": "1.00",
+              "4th": "1.43",
+              "3rd": "1.84",
+              "2nd": "2.81",
+              "1st": "4.92"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x 6.5",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Tiptronic",
+          "trim_id": 336456,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/manual shift",
+            "type": "8",
+            "gear_ratios": {
+              "4th": "1.44",
+              "7th": "0.82",
+              "final_drive": "3.27",
+              "reverse": "- TBD -",
+              "6th": "1.00",
+              "5th": "1.21",
+              "3rd": "1.86",
+              "2nd": "2.84",
+              "1st": "4.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "P195/75R18",
+              "wheel_size": "18 x 6.5",
+              "diameter_inches": 29.52
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Turbo",
+          "trim_id": 336459,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/manual shift",
+            "type": "6",
+            "gear_ratios": {
+              "5th": "1.21",
+              "8th": "0.69",
+              "7th": "0.83",
+              "final_drive": "2.92",
+              "reverse": "- TBD -",
+              "6th": "1.00",
+              "4th": "1.43",
+              "3rd": "1.84",
+              "2nd": "2.81",
+              "1st": "4.92"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 29.43
+            },
+            "rear": {
+              "size": "P265/50R19",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 29.43
+            },
+            "spare": {
+              "size": "P195/65R19",
+              "wheel_size": "19 x 6.5",
+              "diameter_inches": 28.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Diesel",
+          "trim_id": 373380,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.97",
+              "2nd": "2.84",
+              "3rd": "1.86",
+              "4th": "1.44",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "4.07",
+              "final_drive": "3.27",
+              "7th": "0.83",
+              "8th": "0.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S",
+          "trim_id": 373382,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.97",
+              "2nd": "2.84",
+              "3rd": "1.86",
+              "4th": "1.44",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "4.07",
+              "final_drive": "3.09",
+              "7th": "0.83",
+              "8th": "0.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            },
+            "rear": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door S E-Hybrid",
+          "trim_id": 373383,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.92",
+              "2nd": "2.81",
+              "3rd": "1.84",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.27",
+              "7th": "0.83",
+              "8th": "0.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            },
+            "rear": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Turbo",
+          "trim_id": 373381,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.92",
+              "2nd": "2.81",
+              "3rd": "1.84",
+              "4th": "1.43",
+              "5th": "1.21",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "2.92",
+              "7th": "0.83",
+              "8th": "0.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            },
+            "rear": {
+              "size": "P265/50VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.43
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 398437,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.00",
+              "2nd": "3.20",
+              "3rd": "2.14",
+              "4th": "1.72",
+              "5th": "1.31",
+              "6th": "1.00",
+              "reverse": "3.48",
+              "final_drive": "3.48",
+              "7th": "0.82",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P275/50VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 29.83
+            }
+          }
+        },
+        {
+          "trim_name": "E-Hybrid AWD",
+          "trim_id": 402584,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.11",
+              "4th": "1.67",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "3.32",
+              "final_drive": "3.32",
+              "7th": "0.84",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P275/50VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 29.83
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 398438,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.00",
+              "2nd": "3.20",
+              "3rd": "2.14",
+              "4th": "1.72",
+              "5th": "1.31",
+              "6th": "1.00",
+              "reverse": "3.48",
+              "final_drive": "3.48",
+              "7th": "0.82",
+              "8th": "0.64"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/55VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P275/50VR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 29.83
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo AWD",
+          "trim_id": 398439,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.71",
+              "2nd": "3.14",
+              "3rd": "2.10",
+              "4th": "1.66",
+              "5th": "1.28",
+              "6th": "1.00",
+              "reverse": "3.48",
+              "final_drive": "3.48",
+              "7th": "0.83",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/50VR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 31.43
+            },
+            "rear": {
+              "size": "P315/35VR21",
+              "wheel_size": "21 X 11",
+              "diameter_inches": 29.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 280678,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 286106,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR/17",
+              "wheel_size": "17 x 6.5"
+            },
+            "rear": {
+              "size": "P235/50ZR/17",
+              "wheel_size": "17 x 8.0"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 286640,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 294719,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "reverse": "3.44",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR/17",
+              "wheel_size": "17 x 6.5"
+            },
+            "rear": {
+              "size": "P235/50ZR/17",
+              "wheel_size": "17 x 8.0"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 300482,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S Design Edition",
+          "trim_id": 294720,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S Sport",
+          "trim_id": 309601,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.82",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 25.48
+            },
+            "rear": {
+              "size": "P265/35ZR19",
+              "wheel_size": "19 x 9.5",
+              "diameter_inches": 26.3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 309718,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR/17",
+              "wheel_size": "17 x 7.0"
+            },
+            "rear": {
+              "size": "P235/50ZR/17",
+              "wheel_size": "17 x 8.5"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 309719,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 328360,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.66",
+              "2nd": "2.05",
+              "3rd": "1.40",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55ZR/17",
+              "wheel_size": "17 x 7.0"
+            },
+            "rear": {
+              "size": "P235/50ZR/17",
+              "wheel_size": "17 x 8.5"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 328361,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.30",
+              "2nd": "1.95",
+              "3rd": "1.40",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.08",
+              "reverse": "3.00",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 26.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 335489,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R/17",
+              "wheel_size": "17 x 7.0"
+            },
+            "rear": {
+              "size": "P235/50R/17",
+              "wheel_size": "17 x 8.5"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe R",
+          "trim_id": 335492,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "19 x 8.5",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "19 x 10.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 335490,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P265/40ZR18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 26.35
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S Black Edition",
+          "trim_id": 335491,
+          "drivetrain": "Rear-Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "2.12",
+              "3rd": "1.43",
+              "4th": "1.09",
+              "5th": "0.84",
+              "6th": "- TBD -",
+              "reverse": "3.44",
+              "final_drive": "3.88"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35R19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 25.48
+            },
+            "rear": {
+              "size": "P265/35R19",
+              "wheel_size": "19 x 10.0",
+              "diameter_inches": 26.3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 358368,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 358369,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Cayman",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Coupe",
+          "trim_id": 379493,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45ZR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P265/45ZR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 27.39
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe Black Edition",
+          "trim_id": 382799,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.67",
+              "2nd": "2.05",
+              "3rd": "1.46",
+              "4th": "1.13",
+              "5th": "0.97",
+              "6th": "0.84",
+              "reverse": "3.33",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe GT4",
+          "trim_id": 379496,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/35ZR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 26.75
+            },
+            "rear": {
+              "size": "P295/30ZR20",
+              "wheel_size": "20 X 11",
+              "diameter_inches": 26.97
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe GTS",
+          "trim_id": 379495,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/35ZR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 26.48
+            },
+            "rear": {
+              "size": "P265/35ZR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Coupe S",
+          "trim_id": 379494,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "480",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.95",
+              "3rd": "1.41",
+              "4th": "1.13",
+              "5th": "0.95",
+              "6th": "0.81",
+              "reverse": "3.00",
+              "final_drive": "3.89"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40ZR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P265/40ZR19",
+              "wheel_size": "19 X 9.5",
+              "diameter_inches": 27.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door S",
+          "trim_id": 365976,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Turbo",
+          "trim_id": 365977,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door S",
+          "trim_id": 376949,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Turbo",
+          "trim_id": 376950,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 384603,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P255/55VR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "GTS AWD",
+          "trim_id": 384604,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45VR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40VR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 384601,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo AWD",
+          "trim_id": 384602,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo AWD w/Performance Pkg",
+          "trim_id": 391531,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50VR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 405112,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P255/55WR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 405113,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50WR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 411312,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P255/55WR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "GTS AWD",
+          "trim_id": 412564,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 411313,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50WR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo AWD",
+          "trim_id": 411314,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 417592,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60WR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P255/55WR18",
+              "wheel_size": "18 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "GTS AWD",
+          "trim_id": 417595,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 417593,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50WR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo AWD",
+          "trim_id": 417594,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.13",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 424698,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50WR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "GTS AWD",
+          "trim_id": 424700,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/40WR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 29.35
+            },
+            "rear": {
+              "size": "P295/35WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 29.13
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 424699,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Macan",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "AWD",
+          "trim_id": 429212,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55WR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P255/50WR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "GTS AWD",
+          "trim_id": 429214,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/40WR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 29.35
+            },
+            "rear": {
+              "size": "P295/35WR21",
+              "wheel_size": "21 X 10",
+              "diameter_inches": 29.13
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "S AWD",
+          "trim_id": 429213,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        },
+        {
+          "trim_name": "T AWD",
+          "trim_id": 429215,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1D",
+            "type": "7",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.69",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "0.79",
+              "6th": "0.63",
+              "reverse": "2.94",
+              "final_drive": "4.67",
+              "7th": "0.52"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45WR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 29.39
+            },
+            "rear": {
+              "size": "P295/40WR20",
+              "wheel_size": "20 X 10",
+              "diameter_inches": 29.29
+            },
+            "spare": {
+              "size": "Collapsible",
+              "wheel_size": "Collapsible"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Panamera",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door HB 4S",
+          "trim_id": 319113,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "PDK Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -",
+              "7th": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB S",
+          "trim_id": 319112,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "PDK Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -",
+              "7th": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45ZR18",
+              "wheel_size": "18 x 9",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Turbo",
+          "trim_id": 319114,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "PDK Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -",
+              "7th": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/45ZR19",
+              "wheel_size": "19 x 9",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "285/40ZR19",
+              "wheel_size": "19 x 10",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Panamera",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door HB",
+          "trim_id": 328362,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.31",
+              "3rd": "2.01",
+              "4th": "1.37",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "4.57",
+              "final_drive": "3.90",
+              "7th": "0.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45RZ18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB 4",
+          "trim_id": 328364,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.31",
+              "3rd": "2.01",
+              "4th": "1.37",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "4.57",
+              "final_drive": "3.90",
+              "7th": "0.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45RZ18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB 4S",
+          "trim_id": 328365,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.31",
+              "3rd": "2.01",
+              "4th": "1.37",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "4.57",
+              "final_drive": "3.55",
+              "7th": "0.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45RZ18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB S",
+          "trim_id": 328363,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.31",
+              "3rd": "2.01",
+              "4th": "1.37",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "4.57",
+              "final_drive": "3.55",
+              "7th": "0.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/50ZR18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 27.65
+            },
+            "rear": {
+              "size": "275/45RZ18",
+              "wheel_size": "18 x 9.0",
+              "diameter_inches": 27.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Turbo",
+          "trim_id": 328366,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "7",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.31",
+              "3rd": "2.01",
+              "4th": "1.37",
+              "5th": "1.00",
+              "6th": "0.81",
+              "reverse": "4.57",
+              "final_drive": "3.15",
+              "7th": "0.59"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/45ZR19",
+              "wheel_size": "19 x 9.0",
+              "diameter_inches": 28.04
+            },
+            "rear": {
+              "size": "285/40ZR19",
+              "wheel_size": "19 x 10.0",
+              "diameter_inches": 27.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Panamera",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "4 AWD",
+          "trim_id": 453942,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1G",
+            "type": "8",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.22",
+              "3rd": "2.08",
+              "4th": "1.42",
+              "5th": "1.05",
+              "6th": "0.84",
+              "reverse": "5.32",
+              "final_drive": "3.36",
+              "7th": "0.68",
+              "8th": "0.53"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45YR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 28.39
+            },
+            "rear": {
+              "size": "P295/40YR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 28.29
+            }
+          }
+        },
+        {
+          "trim_name": "RWD",
+          "trim_id": 453941,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "G1F",
+            "type": "8",
+            "description": "Auto-Shift Manual w/OD",
+            "gear_ratios": {
+              "1st": "5.97",
+              "2nd": "3.22",
+              "3rd": "2.08",
+              "4th": "1.42",
+              "5th": "1.05",
+              "6th": "0.84",
+              "reverse": "5.32",
+              "final_drive": "3.36",
+              "7th": "0.68",
+              "8th": "0.53"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/45YR19",
+              "wheel_size": "19 X 9",
+              "diameter_inches": 28.39
+            },
+            "rear": {
+              "size": "P295/40YR19",
+              "wheel_size": "19 X 10.5",
+              "diameter_inches": 28.29
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Taycan",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "4S Sedan",
+          "trim_id": 411636,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1X",
+            "type": "2",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "8.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P275/45YR19",
+              "wheel_size": "19 X 10",
+              "diameter_inches": 28.74
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo S Sedan",
+          "trim_id": 411235,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1X",
+            "type": "2",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "8.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.3
+            },
+            "rear": {
+              "size": "P305/30YR21",
+              "wheel_size": "21 X 11.5",
+              "diameter_inches": 28.2
+            }
+          }
+        },
+        {
+          "trim_name": "Turbo Sedan",
+          "trim_id": 411234,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "order_code": "G1X",
+            "type": "2",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "8.05"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR20",
+              "wheel_size": "20 X 9",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P285/40YR20",
+              "wheel_size": "20 X 11",
+              "diameter_inches": 28.98
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

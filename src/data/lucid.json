@@ -1,0 +1,336 @@
+{
+  "make": "Lucid",
+  "vehicle_count": 3,
+  "vehicles": [
+    {
+      "model": "Air",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "Dream Edition AWD",
+          "trim_id": 426190,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "HL245/35YR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 27.75
+            },
+            "rear": {
+              "size": "HL265/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.3
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 426189,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "HL245/35YR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 27.75
+            },
+            "rear": {
+              "size": "HL265/35YR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 28.3
+            }
+          }
+        },
+        {
+          "trim_name": "Pure AWD",
+          "trim_id": 426187,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "Pure RWD",
+          "trim_id": 426186,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 426188,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.72
+            },
+            "rear": {
+              "size": "P265/40YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.35
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Air",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 453315,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.72
+            },
+            "rear": {
+              "size": "P265/40YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.35
+            }
+          }
+        },
+        {
+          "trim_name": "Pure RWD",
+          "trim_id": 453312,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "Sapphire AWD",
+          "trim_id": 453317,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/35YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P295/30YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 27.97
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 453314,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Air",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 460995,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40YR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.72
+            },
+            "rear": {
+              "size": "P265/40YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 28.35
+            }
+          }
+        },
+        {
+          "trim_name": "Pure RWD",
+          "trim_id": 460993,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        },
+        {
+          "trim_name": "Sapphire AWD",
+          "trim_id": 460996,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/35YR20",
+              "wheel_size": "20 X 9.5",
+              "diameter_inches": 27.3
+            },
+            "rear": {
+              "size": "P295/30YR21",
+              "wheel_size": "21 X 10.5",
+              "diameter_inches": 27.97
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 460994,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "final_drive": "7.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            },
+            "rear": {
+              "size": "P245/45YR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 27.68
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6719 @@
+{
+  "make": "Volvo",
+  "vehicle_count": 58,
+  "vehicles": [
+    {
+      "model": "C40 Recharge Pure Electric",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Twin eAWD Core",
+          "trim_id": 427662,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P255/45HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Twin eAWD Plus",
+          "trim_id": 427661,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P255/45HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.04
+            }
+          }
+        },
+        {
+          "trim_name": "Twin eAWD Ultimate",
+          "trim_id": 427660,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "1",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "8.57"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR20",
+              "wheel_size": "20 X 7.5",
+              "diameter_inches": 28.33
+            },
+            "rear": {
+              "size": "P255/40HR20",
+              "wheel_size": "20 X 7.5",
+              "diameter_inches": 28.03
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "HT A CV 2-Door Conv Automatic",
+          "trim_id": 4569,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.86
+            },
+            "rear": {
+              "size": "225/50R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT A SR SE 2-Door Coupe Automatic w/Sunroof",
+          "trim_id": 4620,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT M CV 2-Door Conv Manual",
+          "trim_id": 4568,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.07",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.86
+            },
+            "rear": {
+              "size": "225/50R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT M SR SE 2-Door Coupe Manual w/Sunroof",
+          "trim_id": 4619,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.07",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "LT A CV 2-Door Conv Automatic",
+          "trim_id": 4567,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "HT A CV 2-Door Conv Automatic",
+          "trim_id": 3344,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT A SR 2-Door Coupe Automatic w/Sunroof",
+          "trim_id": 3341,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT M CV 2-Door Conv Manual",
+          "trim_id": 3343,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.07",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "HT M SR 2-Door Coupe Manual w/Sunroof",
+          "trim_id": 3340,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.07",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "rear": {
+              "size": "225/45ZR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 24.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "LT A CV 2-Door Conv Automatic",
+          "trim_id": 3342,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.56"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55ZR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv 2.3L Turbo",
+          "trim_id": 102995,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.07",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv 2.4L Turbo",
+          "trim_id": 102994,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "5th": "- TBD -",
+              "reverse": "3.95",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv 2.3L Turbo Automatic",
+          "trim_id": 141937,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.77",
+              "2nd": "2.99",
+              "3rd": "1.96",
+              "4th": "1.32",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "rear": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv 2.3L Turbo Manual",
+          "trim_id": 109229,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.71",
+              "2nd": "1.77",
+              "3rd": "1.19",
+              "4th": "0.87",
+              "5th": "0.70",
+              "reverse": "2.99",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "rear": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv 2.4L Turbo",
+          "trim_id": 109228,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.77",
+              "2nd": "2.99",
+              "3rd": "1.96",
+              "4th": "1.32",
+              "5th": "1.02",
+              "reverse": "3.95",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "rear": {
+              "size": "255/50ZR16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 26.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2.5L Turbo Automatic",
+          "trim_id": 283156,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/35VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 23.2
+            },
+            "rear": {
+              "size": "225/35VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 23.2
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5L Turbo Manual",
+          "trim_id": 283155,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.39",
+              "2nd": "1.91",
+              "3rd": "1.27",
+              "4th": "0.95",
+              "5th": "0.78",
+              "6th": "0.65",
+              "reverse": "- TBD -",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/35VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 23.2
+            },
+            "rear": {
+              "size": "225/35VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 23.2
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv AT",
+          "trim_id": 286343,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv MT",
+          "trim_id": 286342,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.39",
+              "2nd": "1.91",
+              "3rd": "1.27",
+              "4th": "0.95",
+              "5th": "0.78",
+              "6th": "0.65",
+              "reverse": "- TBD -",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Automatic",
+          "trim_id": 292286,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual",
+          "trim_id": 292285,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.39",
+              "2nd": "1.91",
+              "3rd": "1.27",
+              "4th": "0.95",
+              "5th": "0.78",
+              "6th": "0.65",
+              "reverse": "- TBD -",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Automatic",
+          "trim_id": 305874,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual",
+          "trim_id": 305873,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.39",
+              "2nd": "1.91",
+              "3rd": "1.27",
+              "4th": "0.95",
+              "5th": "0.78",
+              "6th": "0.65",
+              "reverse": "- TBD -",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Automatic",
+          "trim_id": 316632,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual",
+          "trim_id": 316631,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.39",
+              "2nd": "1.91",
+              "3rd": "1.27",
+              "4th": "0.95",
+              "5th": "0.78",
+              "6th": "0.65",
+              "reverse": "- TBD -",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "C70",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Automatic",
+          "trim_id": 323785,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45VR17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "A 4-Door Sedan",
+          "trim_id": 5567,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "reverse": "3.96",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "124/90R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 23.79
+            }
+          }
+        },
+        {
+          "trim_name": "AS 4-Door Sedan w/Sunroof",
+          "trim_id": 5568,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "3.61",
+              "2nd": "2.06",
+              "3rd": "1.37",
+              "4th": "0.98",
+              "reverse": "3.96",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "124/90R15",
+              "wheel_size": "15 x - TBD -",
+              "diameter_inches": 23.79
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Sport Edition",
+          "trim_id": 11613,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "A 4-Door Sedan",
+          "trim_id": 11611,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "A SR 4-Door Sedan w/Sunroof",
+          "trim_id": 11612,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60V15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "A 4-Door Sedan",
+          "trim_id": 3309,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "A SR 4-Door Sedan w/Sunroof",
+          "trim_id": 3310,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.54"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 1.9L",
+          "trim_id": 102794,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/60HR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "rear": {
+              "size": "195/60HR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 24.21
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.4L FWD",
+          "trim_id": 305816,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T R-Design AWD",
+          "trim_id": 305818,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T R-Design FWD",
+          "trim_id": 305817,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S40",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 329077,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan R-Design w/Moonroof",
+          "trim_id": 329079,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan w/Moonroof",
+          "trim_id": 329078,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.3L Turbo",
+          "trim_id": 102988,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "P215/55HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.4L",
+          "trim_id": 102985,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "4.00"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/65HR15",
+              "wheel_size": "15 x 6.5",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "P195/65HR15",
+              "wheel_size": "15 x 6.5",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.4L Turbo",
+          "trim_id": 102986,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/55HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "P215/55HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5L Turbo AWD",
+          "trim_id": 102987,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.4T T5 FWD w/Snrf",
+          "trim_id": 292284,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.77",
+              "2nd": "3.00",
+              "3rd": "1.96",
+              "4th": "1.32",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T AWD",
+          "trim_id": 292282,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T AWD w/Snrf",
+          "trim_id": 292283,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T FWD",
+          "trim_id": 292280,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T FWD w/Snrf",
+          "trim_id": 292281,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.4T FWD",
+          "trim_id": 305821,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T AWD",
+          "trim_id": 305820,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.33
+            },
+            "rear": {
+              "size": "P235/45R16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T FWD",
+          "trim_id": 305819,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.33
+            },
+            "rear": {
+              "size": "P235/45R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 24.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T SE AWD",
+          "trim_id": 316957,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.5T SE FWD",
+          "trim_id": 316956,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan",
+          "trim_id": 327054,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan w/Moonroof",
+          "trim_id": 327055,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door Sedan T6",
+          "trim_id": 330809,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Sedan T6 R-Design",
+          "trim_id": 334871,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door Sedan T6 w/Moonroof",
+          "trim_id": 330810,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sedan T5",
+          "trim_id": 330807,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "1.19",
+              "6th": "0.97",
+              "reverse": "5.28",
+              "final_drive": "3.93/2.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door Sedan T5 w/Moonroof",
+          "trim_id": 330808,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.15",
+              "3rd": "1.41",
+              "4th": "1.03",
+              "5th": "1.19",
+              "6th": "0.97",
+              "reverse": "5.28",
+              "final_drive": "3.93/2.68"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.33
+            },
+            "rear": {
+              "size": "P235/45R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.33
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S60",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "B5 AWD Core",
+          "trim_id": 455508,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Plus",
+          "trim_id": 455509,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra",
+          "trim_id": 455510,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra Black Edition",
+          "trim_id": 455511,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "rear": {
+              "size": "P235/40VR19",
+              "wheel_size": "19 X 8",
+              "diameter_inches": 26.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 FWD Core",
+          "trim_id": 455506,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 FWD Plus",
+          "trim_id": 455507,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.08",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "rear": {
+              "size": "P235/45HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.33
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.9L",
+          "trim_id": 12536,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55/16",
+              "wheel_size": "16\" x 7\""
+            },
+            "rear": {
+              "size": "215/55/16",
+              "wheel_size": "16\" x 7\""
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan T-6 Turbo",
+          "trim_id": 12537,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55/16",
+              "wheel_size": "16\" x 7\""
+            },
+            "rear": {
+              "size": "225/55/16",
+              "wheel_size": "16\" x 7\""
+            },
+            "spare": {
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2001,
+      "trims": [
+        {
+          "trim_name": "2.9 A SR 4-Door Sedan w/Sunroof",
+          "trim_id": 4570,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 A SR 4-Door Sedan Turbo w/Sunroof",
+          "trim_id": 4571,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "225/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 EXEC 4-Door Sedan Turbo",
+          "trim_id": 4572,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "225/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2002,
+      "trims": [
+        {
+          "trim_name": "2.9 A SR 4-Door Sedan w/Sunroof",
+          "trim_id": 3345,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55R16",
+              "wheel_size": "16\" x 7\"",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 A SR 4-Door Sedan Turbo w/Sunroof",
+          "trim_id": 3320,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50HR17",
+              "wheel_size": "17\" x 7\"",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50HR17",
+              "wheel_size": "17\" x 7\"",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 EXEC A SR 4-Door Sedan Turbo w/SR",
+          "trim_id": 3321,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "2.92",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.71",
+              "reverse": "2.39",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50HR17",
+              "wheel_size": "17\" x 7\"",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50HR17",
+              "wheel_size": "17\" x 7\"",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 2.9L",
+          "trim_id": 102996,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.69"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.9L Twin Turbo",
+          "trim_id": 102997,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50HR17",
+              "wheel_size": "17",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50HR17",
+              "wheel_size": "17",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 2.9L Twin Turbo Elite",
+          "trim_id": 108108,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "3.29"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50HR17",
+              "wheel_size": "17",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50HR17",
+              "wheel_size": "17",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2.5L Turbo AWD Automatic",
+          "trim_id": 279506,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5L Turbo Automatic",
+          "trim_id": 279505,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan I6 FWD",
+          "trim_id": 289001,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/50VR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "225/50VR17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 AWD",
+          "trim_id": 289002,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "245/45VR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 25.68
+            },
+            "rear": {
+              "size": "245/45VR17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 25.68
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0L Turbo AWD",
+          "trim_id": 292292,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 3.2L FWD",
+          "trim_id": 292291,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 4.4L AWD",
+          "trim_id": 292293,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45R17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 25.68
+            },
+            "rear": {
+              "size": "P245/45R17",
+              "wheel_size": "17 x 8",
+              "diameter_inches": 25.68
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan I6 FWD",
+          "trim_id": 305837,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan I6 Turbo AWD",
+          "trim_id": 305838,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 AWD",
+          "trim_id": 305839,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan I6 FWD",
+          "trim_id": 316633,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan I6 FWD w/Moonroof",
+          "trim_id": 316634,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan I6 Turbo AWD",
+          "trim_id": 316635,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan V8 AWD",
+          "trim_id": 316636,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan 3.0L Turbo AWD w/Moonroof",
+          "trim_id": 329087,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 3.2L FWD",
+          "trim_id": 329085,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan 3.2L FWD w/Moonroof",
+          "trim_id": 329086,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "rear": {
+              "size": "P225/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.86
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S80",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan T5 Drive-E",
+          "trim_id": 376203,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan T5 Drive-E Platinum",
+          "trim_id": 376204,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/40VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "rear": {
+              "size": "P235/40VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 25.4
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S90",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "T5 FWD Inscription",
+          "trim_id": 383073,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T5 FWD Momentum",
+          "trim_id": 383072,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 AWD Inscription",
+          "trim_id": 383075,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 AWD Momentum",
+          "trim_id": 383074,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S90",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Recharge T8 eAWD PHEV Inscription",
+          "trim_id": 413721,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "Recharge T8 eAWD PHEV R-Design",
+          "trim_id": 413720,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            }
+          }
+        },
+        {
+          "trim_name": "T6 AWD Inscription",
+          "trim_id": 413719,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 AWD Momentum",
+          "trim_id": 413717,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T6 AWD R-Design",
+          "trim_id": 413718,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.20",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S90",
+      "year": 2022,
+      "trims": [
+        {
+          "trim_name": "B6 AWD Inscription",
+          "trim_id": 421680,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B6 AWD Momentum",
+          "trim_id": 421678,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "rear": {
+              "size": "P245/45VR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 26.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B6 AWD R-Design",
+          "trim_id": 421679,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S90",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "B6 AWD Plus",
+          "trim_id": 427823,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B6 AWD Ultimate",
+          "trim_id": 427824,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/35VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "S90",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "B6 AWD Plus",
+          "trim_id": 456579,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/40VR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B6 AWD Ultra",
+          "trim_id": 456580,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.20",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/35VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "rear": {
+              "size": "P255/35VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 27.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V50",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn 2.4L FWD",
+          "trim_id": 305840,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 2.5T R-Design AWD",
+          "trim_id": 305841,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V50",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 329074,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn R-Design w/Moonroof",
+          "trim_id": 329076,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Moonroof",
+          "trim_id": 329075,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "5.11",
+              "final_drive": "2.27"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V70",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "5-Door Wgn 2.3L Turbo",
+          "trim_id": 102992,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 25.31
+            },
+            "rear": {
+              "size": "215/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 25.31
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Wgn 2.4L",
+          "trim_id": 102989,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "195/65HR15",
+              "wheel_size": "15",
+              "diameter_inches": 24.98
+            },
+            "rear": {
+              "size": "195/65HR15",
+              "wheel_size": "15",
+              "diameter_inches": 24.98
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Wgn 2.4L Turbo",
+          "trim_id": 102990,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Wgn 2.5L Turbo AWD",
+          "trim_id": 102991,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "205/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "205/55HR16",
+              "wheel_size": "16",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Wgn 2.5L Turbo AWD XC70",
+          "trim_id": 102993,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65HR16",
+              "wheel_size": "16",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65HR16",
+              "wheel_size": "16",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V70",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 295789,
+          "drivetrain": "Front wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Snrf",
+          "trim_id": 295790,
+          "drivetrain": "Front wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V70",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 305842,
+          "drivetrain": "Front wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Sunroof",
+          "trim_id": 305843,
+          "drivetrain": "Front wheel drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "V70",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 316637,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn R-Design w/Moonroof",
+          "trim_id": 316639,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "rear": {
+              "size": "P245/40R18",
+              "wheel_size": "18 x 8",
+              "diameter_inches": 25.72
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Moonroof",
+          "trim_id": 316638,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.32"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 25.74
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC40",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "T4 FWD Inscription",
+          "trim_id": 406729,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T4 FWD Momentum",
+          "trim_id": 406727,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T4 FWD R-Design",
+          "trim_id": 406728,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T5 AWD Inscription",
+          "trim_id": 406732,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T5 AWD Momentum",
+          "trim_id": 406730,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "T5 AWD R-Design",
+          "trim_id": 406731,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.25",
+              "2nd": "3.03",
+              "3rd": "1.95",
+              "4th": "1.46",
+              "5th": "1.22",
+              "6th": "1.00",
+              "reverse": "4.01",
+              "final_drive": "3.33",
+              "7th": "0.81",
+              "8th": "0.67"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC40",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "B5 AWD Core Bright Theme",
+          "trim_id": 456495,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55HR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Plus Bright Theme",
+          "trim_id": 456496,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Plus Dark Theme",
+          "trim_id": 456497,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "rear": {
+              "size": "P235/50HR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 28.25
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra Bright Theme",
+          "trim_id": 456498,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P245/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 28.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra Dark Theme",
+          "trim_id": 456499,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 28.68
+            },
+            "rear": {
+              "size": "P245/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 28.68
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC60",
+      "year": 2024,
+      "trims": [
+        {
+          "trim_name": "B5 AWD Core Dark Theme",
+          "trim_id": 440892,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Plus Dark Theme",
+          "trim_id": 440893,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultimate Black Edition",
+          "trim_id": 447468,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P255/40HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultimate Dark Theme",
+          "trim_id": 440894,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC60",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "B5 AWD Core",
+          "trim_id": 457150,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60VR18",
+              "wheel_size": "18 X 7.5",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Plus",
+          "trim_id": 457151,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55VR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra",
+          "trim_id": 457152,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/45HR20",
+              "wheel_size": "20 X 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "B5 AWD Ultra Black Edition",
+          "trim_id": 457153,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.06",
+              "2nd": "3.07",
+              "3rd": "2.05",
+              "4th": "1.52",
+              "5th": "1.26",
+              "6th": "1.00",
+              "reverse": "3.99",
+              "final_drive": "3.33",
+              "7th": "0.79",
+              "8th": "0.66"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/40HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "P255/40HR21",
+              "wheel_size": "21 X 8.5",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "2.5L Turbo AWD",
+          "trim_id": 267606,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5L Turbo AWD w/Sunroof",
+          "trim_id": 267607,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "2.5L Turbo AWD",
+          "trim_id": 279453,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5L Turbo AWD Ocean Race Edition",
+          "trim_id": 283485,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "17\"",
+              "wheel_size": "17 x 7"
+            },
+            "rear": {
+              "size": "17\"",
+              "wheel_size": "17 x 7"
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "2.5L Turbo AWD w/Sunroof",
+          "trim_id": 279454,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 286340,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Snrf",
+          "trim_id": 286341,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.66",
+              "2nd": "3.03",
+              "3rd": "1.98",
+              "4th": "1.34",
+              "5th": "1.02",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn",
+          "trim_id": 293198,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "16 x 7",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn w/Snrf",
+          "trim_id": 293199,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "- TBD -",
+              "2nd": "- TBD -",
+              "3rd": "- TBD -",
+              "4th": "- TBD -",
+              "5th": "- TBD -",
+              "6th": "- TBD -",
+              "reverse": "- TBD -",
+              "final_drive": "2.65"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "- TBD -",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "16 x 7",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn 3.0T",
+          "trim_id": 305877,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "rear": {
+              "size": "P235/55R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.0T w/Sunroof",
+          "trim_id": 305878,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "rear": {
+              "size": "P235/55R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 27.18
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L",
+          "trim_id": 305875,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L w/Sunroof",
+          "trim_id": 305876,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn 3.0T",
+          "trim_id": 316642,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.0T w/Moonroof",
+          "trim_id": 316643,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 28.18
+            },
+            "rear": {
+              "size": "P235/55R18",
+              "wheel_size": "18 x 7.5",
+              "diameter_inches": 28.18
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L",
+          "trim_id": 316640,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L w/Moonroof",
+          "trim_id": 316641,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC70",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn 3.0T AWD w/Moonroof",
+          "trim_id": 329084,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L AWD",
+          "trim_id": 329082,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L AWD w/Moonroof",
+          "trim_id": 329083,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L FWD",
+          "trim_id": 329080,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn 3.2L FWD w/Moonroof",
+          "trim_id": 329081,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.57",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "- TBD -",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "rear": {
+              "size": "P215/65R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 27.0
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC90",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door 2.5L Turbo",
+          "trim_id": 102802,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.4
+            },
+            "rear": {
+              "size": "225/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 2.5L Turbo AWD",
+          "trim_id": 102803,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "5",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "5th": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "225/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.4
+            },
+            "rear": {
+              "size": "225/70R16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 28.4
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 2.9L Twin Turbo AWD",
+          "trim_id": 102804,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic",
+            "type": "4",
+            "gear_ratios": {
+              "4th": "- TBD -",
+              "final_drive": "- TBD -",
+              "reverse": "- TBD -",
+              "3rd": "- TBD -",
+              "2nd": "- TBD -",
+              "1st": "- TBD -"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "rear": {
+              "size": "235/65R17",
+              "wheel_size": "17 x 7.0",
+              "diameter_inches": 29.03
+            },
+            "spare": {
+              "size": "- TBD -",
+              "wheel_size": "- TBD -"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "XC90",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door I6",
+          "trim_id": 327166,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.67",
+              "reverse": "- TBD -",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "rear": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door I6 R-Design",
+          "trim_id": 327168,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.67",
+              "reverse": "- TBD -",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50R19",
+              "wheel_size": "19 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/50R19",
+              "wheel_size": "19 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door V8",
+          "trim_id": 327169,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.67",
+              "reverse": "- TBD -",
+              "final_drive": "3.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "rear": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door I6",
+          "trim_id": 327165,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.67",
+              "reverse": "- TBD -",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "rear": {
+              "size": "P235/65R18",
+              "wheel_size": "18 x 7",
+              "diameter_inches": 30.03
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door I6 R-Design",
+          "trim_id": 327167,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic,",
+            "description_extended": "Geartronic",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.16",
+              "5th": "0.86",
+              "6th": "0.67",
+              "reverse": "- TBD -",
+              "final_drive": "4.06"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50R19",
+              "wheel_size": "19 x 8",
+              "diameter_inches": 29.04
+            },
+            "rear": {
+              "size": "P255/50R19",
+              "wheel_size": "19 x 8",
+              "diameter_inches": 29.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

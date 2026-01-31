@@ -1,0 +1,5292 @@
+{
+  "make": "Mazda",
+  "vehicle_count": 34,
+  "vehicles": [
+    {
+      "model": "CX-3",
+      "year": 2017,
+      "trims": [
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 385607,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "rear": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring FWD",
+          "trim_id": 385604,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "rear": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 385605,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport FWD",
+          "trim_id": 385602,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 385606,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 6.5",
+              "diameter_inches": 26.46
+            },
+            "rear": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring FWD",
+          "trim_id": 385603,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 6.5",
+              "diameter_inches": 26.46
+            },
+            "rear": {
+              "size": "P215/50VR18",
+              "wheel_size": "18 X 7",
+              "diameter_inches": 26.46
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-3",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 411578,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport FWD",
+          "trim_id": 411577,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-3",
+      "year": 2021,
+      "trims": [
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 417003,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport FWD",
+          "trim_id": 417002,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "rear": {
+              "size": "P215/60HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 26.16
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-5",
+      "year": 2018,
+      "trims": [
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 397480,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.62"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring FWD",
+          "trim_id": 397477,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport AWD",
+          "trim_id": 397478,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.62"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/65HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            },
+            "rear": {
+              "size": "P225/65HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport FWD",
+          "trim_id": 397475,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/65HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            },
+            "rear": {
+              "size": "P225/65HR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 28.52
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 397479,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.62"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring FWD",
+          "trim_id": 397476,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.33"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "rear": {
+              "size": "P225/55VR19",
+              "wheel_size": "19 X 7",
+              "diameter_inches": 28.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-7",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "AWD 4-Door s Grand Touring",
+          "trim_id": 319779,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.15",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR19",
+              "wheel_size": "19 x 7.5\"",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55HR19",
+              "wheel_size": "19 x 7.5\"",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "AWD 4-Door s Touring",
+          "trim_id": 319778,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.15",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60HR18",
+              "wheel_size": "18 x 7.5\"",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60HR18",
+              "wheel_size": "18 x 7.5\"",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door i SV",
+          "trim_id": 319774,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.92",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70HR17",
+              "wheel_size": "17 x 7\"",
+              "diameter_inches": 28.85
+            },
+            "rear": {
+              "size": "P215/70HR17",
+              "wheel_size": "17 x 7\"",
+              "diameter_inches": 28.85
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door i Sport",
+          "trim_id": 319775,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.92",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P215/70HR17",
+              "wheel_size": "17 x 7\"",
+              "diameter_inches": 28.85
+            },
+            "rear": {
+              "size": "P215/70HR17",
+              "wheel_size": "17 x 7\"",
+              "diameter_inches": 28.85
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door s Grand Touring",
+          "trim_id": 319777,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.15",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/55HR19",
+              "wheel_size": "19 x 7.5\"",
+              "diameter_inches": 29.18
+            },
+            "rear": {
+              "size": "P235/55HR19",
+              "wheel_size": "19 x 7.5\"",
+              "diameter_inches": 29.18
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        },
+        {
+          "trim_name": "FWD 4-Door s Touring",
+          "trim_id": 319776,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "4.15",
+              "2nd": "2.37",
+              "3rd": "1.56",
+              "4th": "1.15",
+              "5th": "0.86",
+              "6th": "0.69",
+              "reverse": "3.39",
+              "final_drive": "3.75"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/60HR18",
+              "wheel_size": "18 x 7.5\"",
+              "diameter_inches": 29.1
+            },
+            "rear": {
+              "size": "P235/60HR18",
+              "wheel_size": "18 x 7.5\"",
+              "diameter_inches": 29.1
+            },
+            "spare": {
+              "size": "T155/90D18",
+              "wheel_size": "18 x - TBD -",
+              "diameter_inches": 28.98
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-70",
+      "year": 2025,
+      "trims": [
+        {
+          "trim_name": "3.3 Turbo Preferred Package AWD",
+          "trim_id": 452541,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.26",
+              "2nd": "3.30",
+              "3rd": "2.22",
+              "4th": "1.71",
+              "5th": "1.30",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.69",
+              "7th": "0.82",
+              "8th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/55HR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "rear": {
+              "size": "P265/55HR19",
+              "wheel_size": "19 X 8.5",
+              "diameter_inches": 30.48
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3 Turbo Premium Package AWD",
+          "trim_id": 452542,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.26",
+              "2nd": "3.30",
+              "3rd": "2.22",
+              "4th": "1.71",
+              "5th": "1.30",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.69",
+              "7th": "0.82",
+              "8th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "rear": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3 Turbo Premium Plus Package AWD",
+          "trim_id": 452543,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.26",
+              "2nd": "3.30",
+              "3rd": "2.22",
+              "4th": "1.71",
+              "5th": "1.30",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.69",
+              "7th": "0.82",
+              "8th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "rear": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3 Turbo S Premium Package AWD",
+          "trim_id": 452544,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.26",
+              "2nd": "3.30",
+              "3rd": "2.22",
+              "4th": "1.71",
+              "5th": "1.30",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.69",
+              "7th": "0.82",
+              "8th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "rear": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "3.3 Turbo S Premium Plus Package AWD",
+          "trim_id": 452545,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "8",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "5.26",
+              "2nd": "3.30",
+              "3rd": "2.22",
+              "4th": "1.71",
+              "5th": "1.30",
+              "6th": "1.00",
+              "reverse": "4.03",
+              "final_drive": "3.69",
+              "7th": "0.82",
+              "8th": "0.63"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "rear": {
+              "size": "P275/45HR21",
+              "wheel_size": "21 X 9.5",
+              "diameter_inches": 30.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "CX-9",
+      "year": 2023,
+      "trims": [
+        {
+          "trim_name": "Carbon Edition AWD",
+          "trim_id": 431459,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.41"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring AWD",
+          "trim_id": 431460,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.41"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Signature AWD",
+          "trim_id": 431461,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.41"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring AWD",
+          "trim_id": 431457,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.41"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/60HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 30.05
+            },
+            "rear": {
+              "size": "P255/60HR18",
+              "wheel_size": "18 X 8",
+              "diameter_inches": 30.05
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring Plus AWD",
+          "trim_id": 431458,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.41"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "rear": {
+              "size": "P255/50VR20",
+              "wheel_size": "20 X 8.5",
+              "diameter_inches": 30.04
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA2",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door HB Automatic Sport",
+          "trim_id": 327339,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Automatic Touring",
+          "trim_id": 327341,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Sport",
+          "trim_id": 327338,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Touring",
+          "trim_id": 327340,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x - TBD -",
+              "diameter_inches": 20.34
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA2",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door HB Automatic Sport",
+          "trim_id": 338855,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.81",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.27",
+              "final_drive": "4.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Automatic Touring",
+          "trim_id": 338857,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.81",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.27",
+              "final_drive": "4.14"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Sport",
+          "trim_id": 338854,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.41",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Touring",
+          "trim_id": 338856,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.41",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.77",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA2",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4-Door HB Automatic Sport",
+          "trim_id": 355039,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.816",
+              "2nd": "1.553",
+              "3rd": "1.000",
+              "4th": "0.695",
+              "reverse": "2.279",
+              "final_drive": "4.147"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Automatic Touring",
+          "trim_id": 355041,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.816",
+              "2nd": "1.553",
+              "3rd": "1.000",
+              "4th": "0.695",
+              "reverse": "2.279",
+              "final_drive": "4.147"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Sport",
+          "trim_id": 355038,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.416",
+              "2nd": "1.842",
+              "3rd": "1.290",
+              "4th": "0.972",
+              "5th": "0.775",
+              "reverse": "3.214",
+              "final_drive": "3.850"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Touring",
+          "trim_id": 355040,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.416",
+              "2nd": "1.842",
+              "3rd": "1.290",
+              "4th": "0.972",
+              "5th": "0.775",
+              "reverse": "3.214",
+              "final_drive": "3.850"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55R15",
+              "wheel_size": "15 x 6.0",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "T115/70D14",
+              "wheel_size": "14 x 4.0",
+              "diameter_inches": 20.34
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA2",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door HB Automatic Sport",
+          "trim_id": 364265,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_5MT04",
+            "type": "4",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.69",
+              "5th": "0.78",
+              "reverse": "2.28",
+              "final_drive": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Automatic Touring",
+          "trim_id": 364267,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_5MT04",
+            "type": "4",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.69",
+              "5th": "0.78",
+              "reverse": "2.28",
+              "final_drive": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Sport",
+          "trim_id": 364264,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door HB Manual Touring",
+          "trim_id": 364266,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.42",
+              "2nd": "1.84",
+              "3rd": "1.29",
+              "4th": "0.97",
+              "5th": "0.78",
+              "reverse": "3.21",
+              "final_drive": "3.85"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "rear": {
+              "size": "P185/55VR15",
+              "wheel_size": "15 X 6",
+              "diameter_inches": 23.01
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "5-Door Sport Automatic",
+          "trim_id": 277988,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "1AT",
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Sport Manual",
+          "trim_id": 277987,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Touring Automatic",
+          "trim_id": 277990,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "1AT",
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "5-Door Touring Manual",
+          "trim_id": 277989,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2007,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 286111,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 286108,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 286110,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.28",
+              "final_drive": "4.42"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 286107,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Touring",
+          "trim_id": 286109,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2008,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 330325,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 330323,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 330324,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 330322,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2009,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 330329,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 330327,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 330328,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 330326,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 330333,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 330331,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 330332,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.86"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 330330,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.31",
+              "4th": "0.97",
+              "5th": "0.76",
+              "reverse": "3.17",
+              "final_drive": "4.39"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2012,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 330663,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 330661,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 330662,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.29",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.41",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 330660,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.45",
+              "2nd": "1.84",
+              "3rd": "1.23",
+              "4th": "0.91",
+              "5th": "0.76",
+              "6th": "0.68",
+              "reverse": "3.20",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2013,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 356318,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.620",
+              "2nd": "1.925",
+              "3rd": "1.285",
+              "4th": "0.933",
+              "5th": "0.692",
+              "reverse": "3.405",
+              "final_drive": "3.458"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 356316,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.620",
+              "2nd": "1.925",
+              "3rd": "1.285",
+              "4th": "0.933",
+              "5th": "0.692",
+              "reverse": "3.405",
+              "final_drive": "3.458"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 356317,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/Manual Shift",
+            "gear_ratios": {
+              "1st": "3.620",
+              "2nd": "1.925",
+              "3rd": "1.285",
+              "4th": "0.933",
+              "5th": "0.692",
+              "reverse": "3.405",
+              "final_drive": "3.458"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 x 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 356315,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.454",
+              "2nd": "1.842",
+              "3rd": "1.233",
+              "4th": "0.914",
+              "5th": "0.755",
+              "6th": "0.680",
+              "reverse": "3.198",
+              "final_drive": "4.105"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 x 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "T125/70D16",
+              "wheel_size": "16 x 4.0",
+              "diameter_inches": 22.89
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 364467,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 364466,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT06",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.23",
+              "4th": "0.93",
+              "5th": "0.76",
+              "6th": "0.68",
+              "reverse": "3.20",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 364465,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Manual Sport",
+          "trim_id": 364464,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.45",
+              "2nd": "1.84",
+              "3rd": "1.23",
+              "4th": "0.91",
+              "5th": "0.76",
+              "6th": "0.68",
+              "reverse": "3.20",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA5",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "4-Door Wgn Automatic Grand Touring",
+          "trim_id": 373373,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Sport",
+          "trim_id": 373375,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "rear": {
+              "size": "P205/55HR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 24.88
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Wgn Automatic Touring",
+          "trim_id": 373374,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.62",
+              "2nd": "1.93",
+              "3rd": "1.28",
+              "4th": "0.93",
+              "5th": "0.69",
+              "reverse": "3.40",
+              "final_drive": "3.46"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "rear": {
+              "size": "P205/50VR17",
+              "wheel_size": "17 X 6.5",
+              "diameter_inches": 25.07
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan i Automatic 4cyl",
+          "trim_id": 103218,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.82",
+              "2nd": "1.50",
+              "3rd": "1.00",
+              "4th": "0.73",
+              "reverse": "2.65",
+              "final_drive": "4.15"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 5.0",
+              "diameter_inches": 25.69
+            },
+            "rear": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 5.0",
+              "diameter_inches": 25.69
+            },
+            "spare": {
+              "size": "T115/70R15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan i Manual 4cyl",
+          "trim_id": 103217,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.31",
+              "2nd": "1.84",
+              "3rd": "1.23",
+              "4th": "0.91",
+              "5th": "0.73",
+              "reverse": "3.17",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 5.0",
+              "diameter_inches": 25.69
+            },
+            "rear": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 5.0",
+              "diameter_inches": 25.69
+            },
+            "spare": {
+              "size": "T115/70R15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan s Automatic V6",
+          "trim_id": 103220,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.80",
+              "2nd": "2.13",
+              "3rd": "1.36",
+              "4th": "0.94",
+              "5th": "0.69",
+              "reverse": "2.97",
+              "final_drive": "3.71"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.69
+            },
+            "rear": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.69
+            },
+            "spare": {
+              "size": "T115/70R15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.34
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan s Manual V6",
+          "trim_id": 103219,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.15",
+              "2nd": "1.84",
+              "3rd": "1.26",
+              "4th": "0.95",
+              "5th": "0.73",
+              "reverse": "3.00",
+              "final_drive": "4.13"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.69
+            },
+            "rear": {
+              "size": "P205/60HR16",
+              "wheel_size": "16 x 7.0",
+              "diameter_inches": 25.69
+            },
+            "spare": {
+              "size": "T115/70R15",
+              "wheel_size": "15 x 4",
+              "diameter_inches": 21.34
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2014,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Automatic i Grand Touring",
+          "trim_id": 357106,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Sport",
+          "trim_id": 357104,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT04",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.72",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Touring",
+          "trim_id": 357105,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT04",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.72",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Sport",
+          "trim_id": 357103,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Touring",
+          "trim_id": 357216,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2015,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Automatic i Grand Touring",
+          "trim_id": 365422,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Sport",
+          "trim_id": 365419,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Touring",
+          "trim_id": 365421,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Sport",
+          "trim_id": 365418,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Touring",
+          "trim_id": 365420,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "4-Door Sedan Automatic i Grand Touring",
+          "trim_id": 374124,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Sport",
+          "trim_id": 374121,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT04",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.72",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Automatic i Touring",
+          "trim_id": 374122,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "order_code": "_6MT04",
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.03",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.72",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Sport",
+          "trim_id": 374120,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Sedan Manual i Touring",
+          "trim_id": 374123,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.70",
+              "2nd": "1.95",
+              "3rd": "1.30",
+              "4th": "1.03",
+              "5th": "0.84",
+              "6th": "0.68",
+              "reverse": "3.72",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2019,
+      "trims": [
+        {
+          "trim_name": "Grand Touring Automatic",
+          "trim_id": 406117,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring Reserve Automatic",
+          "trim_id": 406118,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Signature Automatic",
+          "trim_id": 406119,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport Automatic",
+          "trim_id": 406115,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "4.11"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring Automatic",
+          "trim_id": 406116,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MAZDA6",
+      "year": 2020,
+      "trims": [
+        {
+          "trim_name": "Grand Touring Automatic",
+          "trim_id": 411499,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Grand Touring Reserve Automatic",
+          "trim_id": 411500,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Signature Automatic",
+          "trim_id": 411501,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.49",
+              "2nd": "1.99",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.99",
+              "final_drive": "4.09"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Sport Automatic",
+          "trim_id": 411497,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "rear": {
+              "size": "P225/55VR17",
+              "wheel_size": "17 X 7.5",
+              "diameter_inches": 26.74
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        },
+        {
+          "trim_name": "Touring Automatic",
+          "trim_id": 411498,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.55",
+              "2nd": "2.02",
+              "3rd": "1.45",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.60",
+              "reverse": "3.89",
+              "final_drive": "3.81"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "rear": {
+              "size": "P225/45WR19",
+              "wheel_size": "19 X 7.5",
+              "diameter_inches": 26.97
+            },
+            "spare": {
+              "size": "Compact",
+              "wheel_size": "Compact"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MX-5 Miata",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Base Automatic",
+          "trim_id": 5372,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.45",
+              "2nd": "1.45",
+              "3rd": "1.00",
+              "4th": "0.73",
+              "reverse": "2.22",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/60HR14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.74
+            },
+            "rear": {
+              "size": "P185/60HR14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.74
+            },
+            "spare": {
+              "size": "T117/70D14",
+              "wheel_size": "14 x 4",
+              "diameter_inches": 20.45
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Base Manual",
+          "trim_id": 5371,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.14",
+              "2nd": "1.89",
+              "3rd": "1.33",
+              "4th": "1.00",
+              "5th": "0.81",
+              "reverse": "3.76",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P185/60HR14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.74
+            },
+            "rear": {
+              "size": "P185/60HR14",
+              "wheel_size": "14 x 5.5",
+              "diameter_inches": 22.74
+            },
+            "spare": {
+              "size": "T117/70D14",
+              "wheel_size": "14 x 4",
+              "diameter_inches": 20.45
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv LS Automatic",
+          "trim_id": 5374,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "description_extended": "Electronic",
+            "gear_ratios": {
+              "1st": "2.45",
+              "2nd": "1.45",
+              "3rd": "1.00",
+              "4th": "0.73",
+              "reverse": "2.22",
+              "final_drive": "4.10"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "rear": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "spare": {
+              "size": "T117/70D14",
+              "wheel_size": "14 x 4",
+              "diameter_inches": 20.45
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv LS Manual",
+          "trim_id": 5373,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.14",
+              "2nd": "1.89",
+              "3rd": "1.33",
+              "4th": "1.00",
+              "5th": "0.81",
+              "reverse": "3.76",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "rear": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "spare": {
+              "size": "T117/70D14",
+              "wheel_size": "14 x 4",
+              "diameter_inches": 20.45
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv SE Special Edition",
+          "trim_id": 5375,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "3.76",
+              "2nd": "2.27",
+              "3rd": "1.65",
+              "4th": "1.26",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "3.56",
+              "final_drive": "3.91"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "rear": {
+              "size": "P195/50VR15",
+              "wheel_size": "15 x 6",
+              "diameter_inches": 22.68
+            },
+            "spare": {
+              "size": "T117/70D14",
+              "wheel_size": "14 x 4",
+              "diameter_inches": 20.45
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "MX-5 Miata",
+      "year": 2016,
+      "trims": [
+        {
+          "trim_name": "2-Door Conv Automatic Club",
+          "trim_id": 377321,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "AT6",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "1.40",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "0.58",
+              "reverse": "4.70",
+              "final_drive": "3.45"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Automatic Grand Touring",
+          "trim_id": 377326,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "AT6",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "1.40",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "0.58",
+              "reverse": "4.70",
+              "final_drive": "3.45"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Automatic Sport",
+          "trim_id": 377323,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "order_code": "AT6",
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "1.40",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "0.58",
+              "reverse": "4.70",
+              "final_drive": "3.45"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/50VR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 23.68
+            },
+            "rear": {
+              "size": "P195/50VR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 23.68
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Club",
+          "trim_id": 377325,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "2.04",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "4.70",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Grand Touring",
+          "trim_id": 377324,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "2.04",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "4.70",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            },
+            "rear": {
+              "size": "P205/45WR17",
+              "wheel_size": "17 X 7",
+              "diameter_inches": 24.26
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door Conv Manual Sport",
+          "trim_id": 377322,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual",
+            "gear_ratios": {
+              "1st": "5.09",
+              "2nd": "2.99",
+              "3rd": "2.04",
+              "4th": "1.59",
+              "5th": "1.29",
+              "6th": "1.00",
+              "reverse": "4.70",
+              "final_drive": "2.87"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P195/50VR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 23.68
+            },
+            "rear": {
+              "size": "P195/50VR16",
+              "wheel_size": "16 X 6.5",
+              "diameter_inches": 23.68
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "RX-8",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door Coupe 6-Speed Manual",
+          "trim_id": 109346,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.76",
+              "2nd": "2.27",
+              "3rd": "1.65",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "3.56",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Automatic",
+          "trim_id": 109345,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.79",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.27",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "RX-8",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "4-Door Coupe 6-Speed Manual",
+          "trim_id": 267877,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.76",
+              "2nd": "2.27",
+              "3rd": "1.65",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "3.56",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Automatic",
+          "trim_id": 267876,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.79",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.27",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Shinka Special Edition Automatic",
+          "trim_id": 275358,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "2.79",
+              "2nd": "1.55",
+              "3rd": "1.00",
+              "4th": "0.69",
+              "reverse": "2.27",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Shinka Special Edition Manual",
+          "trim_id": 275359,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.76",
+              "2nd": "2.27",
+              "3rd": "1.65",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "3.56",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "RX-8",
+      "year": 2006,
+      "trims": [
+        {
+          "trim_name": "4-Door Coupe 6-Speed Manual",
+          "trim_id": 282687,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.76",
+              "2nd": "2.27",
+              "3rd": "1.65",
+              "4th": "1.19",
+              "5th": "1.00",
+              "6th": "0.84",
+              "reverse": "3.56",
+              "final_drive": "4.44"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Automatic",
+          "trim_id": 282686,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic",
+            "gear_ratios": {
+              "1st": "3.36",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            },
+            "rear": {
+              "size": "P225/55R16",
+              "wheel_size": "16 x 7.5",
+              "diameter_inches": 25.74
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "RX-8",
+      "year": 2010,
+      "trims": [
+        {
+          "trim_name": "4-Door Coupe Automatic Grand Touring",
+          "trim_id": 318480,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Automatic Sport",
+          "trim_id": 318478,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual Grand Touring",
+          "trim_id": 318479,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual R3",
+          "trim_id": 318481,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40R19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P225/40R19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 26.09
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual Sport",
+          "trim_id": 318477,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "RX-8",
+      "year": 2011,
+      "trims": [
+        {
+          "trim_name": "4-Door Coupe Automatic Grand Touring",
+          "trim_id": 329737,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Automatic Sport",
+          "trim_id": 329735,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "3.54",
+              "2nd": "2.06",
+              "3rd": "1.40",
+              "4th": "1.00",
+              "5th": "0.71",
+              "6th": "0.58",
+              "reverse": "3.17",
+              "final_drive": "4.30"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual Grand Touring",
+          "trim_id": 329736,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual R3",
+          "trim_id": 329738,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/40R19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 26.09
+            },
+            "rear": {
+              "size": "P225/40R19",
+              "wheel_size": "19 x 8.0",
+              "diameter_inches": 26.09
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door Coupe Manual Sport",
+          "trim_id": 329734,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "type": "6",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.82",
+              "2nd": "2.26",
+              "3rd": "1.54",
+              "4th": "1.18",
+              "5th": "1.00",
+              "6th": "0.79",
+              "reverse": "3.60",
+              "final_drive": "4.78"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            },
+            "rear": {
+              "size": "P225/45R18",
+              "wheel_size": "18 x 8.0",
+              "diameter_inches": 25.97
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Tribute",
+      "year": 2005,
+      "trims": [
+        {
+          "trim_name": "2.3L Automatic i",
+          "trim_id": 264293,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.89",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.31",
+              "final_drive": "4.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "2.3L Automatic i 4WD",
+          "trim_id": 264295,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.89",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.31",
+              "final_drive": "4.23"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "2.3L Manual i",
+          "trim_id": 264292,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "1.94",
+              "3rd": "1.26",
+              "4th": "0.95",
+              "5th": "0.81",
+              "reverse": "3.37",
+              "final_drive": "4.13"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "2.3L Manual i 4WD",
+          "trim_id": 268076,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "type": "5",
+            "description": "Manual w/OD",
+            "gear_ratios": {
+              "1st": "3.50",
+              "2nd": "1.94",
+              "3rd": "1.26",
+              "4th": "0.95",
+              "5th": "0.81",
+              "reverse": "3.37",
+              "final_drive": "4.43"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "3.0L Automatic s",
+          "trim_id": 264294,
+          "drivetrain": "Front Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.89",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.31",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        },
+        {
+          "trim_name": "3.0L Automatic s 4WD",
+          "trim_id": 264296,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "type": "4",
+            "description": "Automatic w/OD",
+            "gear_ratios": {
+              "1st": "2.89",
+              "2nd": "1.57",
+              "3rd": "1.00",
+              "4th": "0.70",
+              "reverse": "2.31",
+              "final_drive": "3.77"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "T185/60R17",
+              "wheel_size": "17 x - TBD -",
+              "diameter_inches": 25.74
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
