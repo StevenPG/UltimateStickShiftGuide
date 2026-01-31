@@ -1,6 +1,6 @@
 {
   "make": "Ford",
-  "vehicle_count": 116,
+  "vehicle_count": 119,
   "vehicles": [
     {
       "model": "Bronco",
@@ -23649,6 +23649,3248 @@
     },
     {
       "model": "Explorer",
+      "year": 2003,
+      "trims": [
+        {
+          "trim_name": "2-Door 102\" WB 4WD XLS Automatic",
+          "trim_id": 100831,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB 4WD XLS Manual",
+          "trim_id": 100830,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44J",
+            "gear_ratios": {
+              "reverse": "3.40",
+              "5th": "0.79",
+              "4th": "1.00",
+              "3rd": "1.31",
+              "2nd": "2.05",
+              "1st": "3.40",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB 4WD XLT",
+          "trim_id": 100832,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB 4WD XLT Premium",
+          "trim_id": 100833,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 30.06
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB XLS Automatic",
+          "trim_id": 100827,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB XLS Manual",
+          "trim_id": 100826,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44J",
+            "gear_ratios": {
+              "reverse": "3.40",
+              "5th": "0.79",
+              "4th": "1.00",
+              "3rd": "1.31",
+              "2nd": "2.05",
+              "1st": "3.40",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB XLT",
+          "trim_id": 100828,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "2-Door 102\" WB XLT Premium",
+          "trim_id": 100829,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x - TBD -",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer",
+          "trim_id": 101330,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer 4WD",
+          "trim_id": 101334,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer AWD",
+          "trim_id": 101344,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited",
+          "trim_id": 101332,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited 4WD",
+          "trim_id": 101336,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited AWD",
+          "trim_id": 101346,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L NBX",
+          "trim_id": 101322,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L NBX 4WD",
+          "trim_id": 101328,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS",
+          "trim_id": 101314,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS 4WD",
+          "trim_id": 101316,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS AWD",
+          "trim_id": 101338,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport",
+          "trim_id": 101315,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport 4WD",
+          "trim_id": 101317,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport AWD",
+          "trim_id": 101339,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT",
+          "trim_id": 101318,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT 4WD",
+          "trim_id": 101324,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT AWD",
+          "trim_id": 101340,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport",
+          "trim_id": 101320,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport 4WD",
+          "trim_id": 101326,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport AWD",
+          "trim_id": 101342,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer",
+          "trim_id": 101331,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer 4WD",
+          "trim_id": 101335,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer AWD",
+          "trim_id": 101345,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited",
+          "trim_id": 101333,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited 4WD",
+          "trim_id": 101337,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited AWD",
+          "trim_id": 101347,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L NBX",
+          "trim_id": 101323,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L NBX 4WD",
+          "trim_id": 101329,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT",
+          "trim_id": 101319,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT 4WD",
+          "trim_id": 101325,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT AWD",
+          "trim_id": 101341,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport",
+          "trim_id": 101321,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport 4WD",
+          "trim_id": 101327,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport AWD",
+          "trim_id": 101343,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.44",
+              "1st": "3.25",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLS Automatic",
+          "trim_id": 100839,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLS Manual",
+          "trim_id": 100838,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44J",
+            "gear_ratios": {
+              "reverse": "3.40",
+              "5th": "0.79",
+              "4th": "1.00",
+              "3rd": "1.31",
+              "2nd": "2.05",
+              "1st": "3.40",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLT",
+          "trim_id": 100840,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLT Premium",
+          "trim_id": 100841,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLS Automatic",
+          "trim_id": 100835,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLS Manual",
+          "trim_id": 100834,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44J",
+            "gear_ratios": {
+              "reverse": "3.40",
+              "5th": "0.79",
+              "4th": "1.00",
+              "3rd": "1.31",
+              "2nd": "2.05",
+              "1st": "3.40",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLT",
+          "trim_id": 100836,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLT Premium",
+          "trim_id": 100837,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.85",
+              "1st": "2.47",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Explorer",
+      "year": 2004,
+      "trims": [
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer",
+          "trim_id": 127736,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer 4WD",
+          "trim_id": 127740,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Eddie Bauer AWD",
+          "trim_id": 127750,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited",
+          "trim_id": 127738,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited 4WD",
+          "trim_id": 127742,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L Limited AWD",
+          "trim_id": 127752,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L NBX 4WD",
+          "trim_id": 127734,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS",
+          "trim_id": 127722,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS 4WD",
+          "trim_id": 127724,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS AWD",
+          "trim_id": 127744,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport",
+          "trim_id": 127723,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport 4WD",
+          "trim_id": 127725,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLS Sport AWD",
+          "trim_id": 127745,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT",
+          "trim_id": 127726,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT 4WD",
+          "trim_id": 127730,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT AWD",
+          "trim_id": 127746,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport",
+          "trim_id": 127728,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport 4WD",
+          "trim_id": 127732,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.0L XLT Sport AWD",
+          "trim_id": 127748,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer",
+          "trim_id": 127737,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer 4WD",
+          "trim_id": 127741,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Eddie Bauer AWD",
+          "trim_id": 127751,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited",
+          "trim_id": 127739,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited 4WD",
+          "trim_id": 127743,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L Limited AWD",
+          "trim_id": 127753,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L NBX 4WD",
+          "trim_id": 127735,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT",
+          "trim_id": 127727,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT 4WD",
+          "trim_id": 127731,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT AWD",
+          "trim_id": 127747,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport",
+          "trim_id": 127729,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport 4WD",
+          "trim_id": 127733,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 114\" WB 4.6L XLT Sport AWD",
+          "trim_id": 127749,
+          "drivetrain": "All Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "gear_ratios": {
+              "reverse": "3.07",
+              "5th": "0.71",
+              "4th": "1.00",
+              "3rd": "1.55",
+              "2nd": "2.32",
+              "1st": "3.22",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "rear": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            },
+            "spare": {
+              "size": "P245/65R17",
+              "wheel_size": "17 x 7.5",
+              "diameter_inches": 29.54
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD Adrenalin",
+          "trim_id": 128036,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLS",
+          "trim_id": 128033,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLT",
+          "trim_id": 128034,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB 4WD XLT Premium",
+          "trim_id": 128035,
+          "drivetrain": "4-Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "front_axle": "3.73",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB Adrenalin",
+          "trim_id": 128032,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLS",
+          "trim_id": 128029,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLT",
+          "trim_id": 128030,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "4-Door 126\" WB XLT Premium",
+          "trim_id": 128031,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Automatic w/OD",
+            "type": "5",
+            "order_code": "44D",
+            "gear_ratios": {
+              "reverse": "2.10",
+              "5th": "0.75",
+              "4th": "1.00",
+              "3rd": "1.47",
+              "2nd": "1.86",
+              "1st": "2.48",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "rear": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            },
+            "spare": {
+              "size": "P255/70R16",
+              "wheel_size": "16 x 7",
+              "diameter_inches": 30.06
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "Explorer",
       "year": 2005,
       "trims": [
         {
@@ -32092,6 +35334,1469 @@
               "size": "P255/55VR20",
               "wheel_size": "20 X 8",
               "diameter_inches": 31.04
+            }
+          }
+        }
+      ]
+    },
+    {
+      "model": "F-150",
+      "year": 2000,
+      "trims": [
+        {
+          "trim_name": "Reg Cab 120\"",
+          "trim_id": 11204,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 120\" 4WD",
+          "trim_id": 11206,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 120\" 4WD XL",
+          "trim_id": 11179,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 120\" 4WD XLT",
+          "trim_id": 11180,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 120\" XL",
+          "trim_id": 11172,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 120\" XLT",
+          "trim_id": 11173,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\"",
+          "trim_id": 11205,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\" 4WD",
+          "trim_id": 11207,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\" 4WD XL",
+          "trim_id": 11181,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\" 4WD XLT",
+          "trim_id": 11182,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\" XL",
+          "trim_id": 11174,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab 139\" XLT",
+          "trim_id": 11175,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab Flareside 120\" 4WD XL",
+          "trim_id": 11183,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab Flareside 120\" 4WD XLT",
+          "trim_id": 11184,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab Flareside 120\" Lightning",
+          "trim_id": 11178,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "447",
+            "gear_ratios": {
+              "reverse": "2.18",
+              "4th": "0.71",
+              "3rd": "1.00",
+              "2nd": "1.53",
+              "1st": "2.71",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P295/45ZR18",
+              "wheel_size": "18.0 x 9.5",
+              "diameter_inches": 28.45
+            },
+            "rear": {
+              "size": "P295/45ZR18",
+              "wheel_size": "18.0 x 9.5",
+              "diameter_inches": 28.45
+            },
+            "spare": {
+              "size": "16\"",
+              "wheel_size": "16 x -TBD-"
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab Flareside 120\" XL",
+          "trim_id": 11176,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Reg Cab Flareside 120\" XLT",
+          "trim_id": 11177,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\"",
+          "trim_id": 11208,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" 4WD",
+          "trim_id": 11210,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" 4WD Lariat",
+          "trim_id": 11197,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "rear": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "spare": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" 4WD XL",
+          "trim_id": 11195,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" 4WD XLT",
+          "trim_id": 11196,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" Lariat",
+          "trim_id": 11187,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "rear": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "spare": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" XL",
+          "trim_id": 11185,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 139\" XLT",
+          "trim_id": 11186,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\"",
+          "trim_id": 11209,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" 4WD",
+          "trim_id": 11211,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" 4WD Lariat",
+          "trim_id": 11200,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "rear": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "spare": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" 4WD XL",
+          "trim_id": 11198,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" 4WD XLT",
+          "trim_id": 11199,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" Lariat",
+          "trim_id": 11190,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "rear": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "spare": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" XL",
+          "trim_id": 11188,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab 157\" XLT",
+          "trim_id": 11189,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" 4WD Lariat",
+          "trim_id": 11203,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.55",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "rear": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            },
+            "spare": {
+              "size": "P265/70R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 31.61
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" 4WD XL",
+          "trim_id": 11201,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" 4WD XLT",
+          "trim_id": 11202,
+          "drivetrain": "4 Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "front_axle": "3.31",
+              "rear_axle": "3.31"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" Lariat",
+          "trim_id": 11193,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.55"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "rear": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            },
+            "spare": {
+              "size": "P275/60R17",
+              "wheel_size": "17.0 x 7.5",
+              "diameter_inches": 29.99
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" XL",
+          "trim_id": 11191,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside 139\" XLT",
+          "trim_id": 11192,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description": "Manual w/OD",
+            "type": "5",
+            "order_code": "44M",
+            "gear_ratios": {
+              "reverse": "3.41",
+              "5th": "0.80",
+              "4th": "1.00",
+              "3rd": "1.49",
+              "2nd": "2.25",
+              "1st": "3.90",
+              "rear_axle": "3.08"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "rear": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            },
+            "spare": {
+              "size": "P235/70R16SL",
+              "wheel_size": "16.0 x 7.0",
+              "diameter_inches": 28.95
+            }
+          }
+        },
+        {
+          "trim_name": "Supercab Flareside Harley-Davidson",
+          "trim_id": 11194,
+          "drivetrain": "Rear Wheel Drive",
+          "transmission": {
+            "description_extended": "Electronic",
+            "description": "Automatic w/OD,",
+            "type": "4",
+            "order_code": "44U",
+            "gear_ratios": {
+              "reverse": "2.33",
+              "4th": "0.70",
+              "3rd": "1.00",
+              "2nd": "1.55",
+              "1st": "2.84",
+              "rear_axle": "3.73"
+            }
+          },
+          "tires": {
+            "front": {
+              "size": "P275/45R20",
+              "wheel_size": "20.0 x 9.5",
+              "diameter_inches": 29.74
+            },
+            "rear": {
+              "size": "P275/45R20",
+              "wheel_size": "20.0 x 9.5",
+              "diameter_inches": 29.74
+            },
+            "spare": {
+              "size": "16\"",
+              "wheel_size": "16 x -TBD-"
             }
           }
         }
